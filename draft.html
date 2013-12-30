@@ -4,7 +4,7 @@
 <head>
   <title>Life Expectancy Map</title>
   <script src="http://mbostock.github.com/d3/d3.v2.min.js?2.8.1"></script>
-  <script src="https://raw.github.com/mbostock/d3/master/lib/colorbrewer/colorbrewer.js"></script>
+  <script src="lib/colorbrewer.js"></script>
   <script src="data/world-countries.json"></script>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <style>
@@ -33,6 +33,8 @@
 
 <script>
 d3.csv("data/life-expectancy-full.csv", function(csv) {
+
+  //console.log(csv)
 
   var
   // The color scale
@@ -94,6 +96,8 @@ d3.csv("data/life-expectancy-full.csv", function(csv) {
       country   = countries
                     .selectAll("path")
                     .data(world_countries.features);
+
+  console.log(data(csv));
   country
    .enter()
     .append("path")
