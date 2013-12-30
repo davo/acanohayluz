@@ -1,0 +1,4061 @@
+"nombre","dia","hora","cantidad"
+"Palermo","24/12",3,2
+"Parque Patricios","24/12",3,1
+"Villa Urquiza","24/12",9,1
+"Villa Ortúzar","24/12",9,1
+"Palermo","24/12",10,1
+"Palermo","24/12",11,1
+"Recoleta","24/12",15,3
+"Villa Ortúzar","24/12",15,1
+"Palermo","24/12",15,1
+"Flores","24/12",16,2
+"Villa Ortúzar","24/12",16,1
+"Tigre","24/12",16,1
+"Villa Urquiza","24/12",16,1
+"Belgrano","24/12",16,1
+"Villa Ortúzar","24/12",17,5
+"Palermo","24/12",17,4
+"Villa Urquiza","24/12",17,3
+"Monte Castro","24/12",17,1
+"Caballito","24/12",18,2
+"Palermo","24/12",18,2
+"Villa del Parque","24/12",18,1
+"Parque Chacabuco","24/12",18,1
+"Parque Patricios","24/12",18,1
+"Villa Crespo","24/12",18,1
+"Villa Devoto","24/12",18,1
+"Monte Castro","24/12",18,1
+"Saavedra","24/12",18,1
+"Flores","24/12",18,1
+"Villa Urquiza","24/12",18,1
+"Palermo","24/12",19,2
+"Almirante Brown","24/12",19,2
+"Boedo","24/12",19,2
+"Barracas","24/12",19,2
+"La Matanza","24/12",19,2
+"Recoleta","24/12",19,1
+"Chacarita","24/12",19,1
+"Parque Chacabuco","24/12",19,1
+"Paternal","24/12",19,1
+"Saavedra","24/12",19,1
+"Parque Chas","24/12",19,1
+"Monte Castro","24/12",19,1
+"Villa Santa Rita","24/12",19,1
+"Balvanera","24/12",19,1
+"Villa Crespo","24/12",19,1
+"Nueva Pompeya","24/12",19,1
+"Palermo","24/12",20,8
+"Caballito","24/12",20,3
+"Villa Crespo","24/12",20,3
+"Lanús","24/12",20,2
+"San Fernando","24/12",20,2
+"San Isidro","24/12",20,2
+"Recoleta","24/12",20,1
+"San Cristóbal","24/12",20,1
+"General San Martín","24/12",20,1
+"Villa Urquiza","24/12",20,1
+"Parque Chas","24/12",20,1
+"Balvanera","24/12",20,1
+"Monte Castro","24/12",20,1
+"Esteban Echeverría","24/12",20,1
+"Lomas de Zamora","24/12",20,1
+"Belgrano","24/12",20,1
+"Florencio Varela","24/12",20,1
+"Rosario","24/12",20,1
+"Villa Gral. Mitre","24/12",20,1
+"Colegiales","24/12",21,1
+"Recoleta","24/12",21,1
+"Almagro","24/12",21,1
+"Villa Crespo","24/12",21,1
+"Parque Avellaneda","24/12",21,1
+"Esteban Echeverría","24/12",21,1
+"Belgrano","24/12",21,1
+"Villa Devoto","24/12",21,1
+"Floresta","24/12",21,1
+"Palermo","24/12",21,1
+"Vélez Sársfield","24/12",21,1
+"Villa Ortúzar","24/12",21,1
+"Lanús","24/12",22,1
+"Villa Luro","24/12",22,1
+"Avellaneda","24/12",22,1
+"Flores","24/12",22,1
+"Balvanera","24/12",23,1
+"San Isidro","24/12",23,1
+"Quilmes","24/12",23,1
+"Belgrano","24/12",23,1
+"Caballito","24/12",23,1
+"Esteban Echeverría","25/12",0,1
+"San Cristóbal","25/12",0,1
+"Ezeiza","25/12",0,1
+"Caballito","25/12",1,1
+"Quilmes","25/12",1,1
+"Recoleta","25/12",1,1
+"Quilmes","25/12",2,1
+"Tigre","25/12",2,1
+"Villa del Parque","25/12",2,1
+"Villa Crespo","25/12",3,2
+"Avellaneda","25/12",3,1
+"Palermo","25/12",3,1
+"Lomas de Zamora","25/12",3,1
+"Villa Lugano","25/12",3,1
+"La Matanza","25/12",4,1
+"Flores","25/12",4,1
+"Belgrano","25/12",7,1
+"Villa Devoto","25/12",8,1
+"Villa Crespo","25/12",9,1
+"Colegiales","25/12",10,1
+"Almagro","25/12",10,1
+"Belgrano","25/12",10,1
+"Morón","25/12",11,1
+"Villa Santa Rita","25/12",11,1
+"Flores","25/12",11,1
+"Balvanera","25/12",12,1
+"Lanús","25/12",12,1
+"Villa Urquiza","25/12",12,1
+"Parque Chas","25/12",12,1
+"Belgrano","25/12",12,1
+"Caballito","25/12",12,1
+"Almagro","25/12",12,1
+"Flores","25/12",13,1
+"Lomas de Zamora","25/12",13,1
+"Almagro","25/12",13,1
+"Parque Chacabuco","25/12",13,1
+"Flores","25/12",14,1
+"La Matanza","25/12",15,1
+"Palermo","25/12",16,1
+"Saavedra","25/12",16,1
+"Villa Crespo","25/12",17,1
+"Monte Castro","25/12",18,1
+"Vélez Sársfield","25/12",18,1
+"Barracas","25/12",18,1
+"Flores","25/12",18,1
+"Liniers","25/12",18,1
+"Villa del Parque","25/12",19,2
+"Quilmes","25/12",19,1
+"Almirante Brown","25/12",19,1
+"Villa Gral. Mitre","25/12",19,1
+"Tres de Febrero","25/12",19,1
+"Belgrano","25/12",19,1
+"Mataderos","25/12",19,1
+"Flores","25/12",19,1
+"Villa Lugano","25/12",19,1
+"San Nicolás","25/12",20,2
+"Parque Avellaneda","25/12",20,1
+"Balvanera","25/12",20,1
+"Recoleta","25/12",20,1
+"Avellaneda","25/12",20,1
+"Villa Urquiza","25/12",20,1
+"Villa Devoto","25/12",20,1
+"Floresta","25/12",20,1
+"Rosario","25/12",20,1
+"Flores","25/12",21,1
+"Caballito","25/12",21,1
+"San Fernando","25/12",21,1
+"Villa del Parque","25/12",21,1
+"Vélez Sársfield","25/12",21,1
+"Lanús","25/12",21,1
+"Retiro","25/12",21,1
+"Morón","25/12",21,1
+"Recoleta","25/12",21,1
+"Villa Devoto","25/12",22,3
+"Parque Avellaneda","25/12",22,1
+"Villa Luro","25/12",22,1
+"Morón","25/12",22,1
+"San Cristóbal","25/12",22,1
+"Monte Castro","25/12",22,1
+"Vélez Sársfield","25/12",22,1
+"Villa Santa Rita","25/12",23,2
+"Liniers","25/12",23,1
+"Monte Castro","25/12",23,1
+"Palermo","25/12",23,1
+"Villa Urquiza","25/12",23,1
+"Monserrat","25/12",23,1
+"Quilmes","25/12",23,1
+"Villa Gral. Mitre","25/12",23,1
+"Lomas de Zamora","25/12",23,1
+"Parque Avellaneda","25/12",23,1
+"Caballito","26/12",0,1
+"Vélez Sársfield","26/12",0,1
+"Floresta","26/12",0,1
+"Villa Luro","26/12",0,1
+"Belgrano","26/12",0,1
+"Caballito","26/12",1,1
+"Avellaneda","26/12",1,1
+"Villa Lugano","26/12",1,1
+"Hurlingham","26/12",1,1
+"Palermo","26/12",1,1
+"La Matanza","26/12",1,1
+"Villa Santa Rita","26/12",1,1
+"San Isidro","26/12",1,1
+"La Matanza","26/12",2,1
+"Balvanera","26/12",2,1
+"Almagro","26/12",2,1
+"Belgrano","26/12",2,1
+"Floresta","26/12",2,1
+"Colegiales","26/12",2,1
+"Villa Gral. Mitre","26/12",3,1
+"Morón","26/12",3,1
+"Belgrano","26/12",3,1
+"Parque Chacabuco","26/12",5,1
+"Berazategui","26/12",6,1
+"Palermo","26/12",8,2
+"Villa Urquiza","26/12",8,1
+"Quilmes","26/12",8,1
+"Morón","26/12",8,1
+"Villa Urquiza","26/12",9,2
+"Villa Crespo","26/12",9,2
+"Quilmes","26/12",9,1
+"Boedo","26/12",9,1
+"Parque Avellaneda","26/12",9,1
+"Esteban Echeverría","26/12",9,1
+"Recoleta","26/12",9,1
+"Palermo","26/12",9,1
+"San Isidro","26/12",9,1
+"Avellaneda","26/12",10,12
+"Lomas de Zamora","26/12",10,8
+"Almagro","26/12",10,6
+"Caballito","26/12",10,5
+"San Isidro","26/12",10,4
+"Quilmes","26/12",10,4
+"Villa Crespo","26/12",10,4
+"Palermo","26/12",10,4
+"Lanús","26/12",10,4
+"La Matanza","26/12",10,3
+"Balvanera","26/12",10,3
+"San Nicolás","26/12",10,3
+"Villa Riachuelo","26/12",10,3
+"Colegiales","26/12",10,3
+"Villa Urquiza","26/12",10,3
+"Villa Devoto","26/12",10,3
+"Villa Santa Rita","26/12",10,2
+"Recoleta","26/12",10,2
+"Almirante Brown","26/12",10,2
+"General San Martín","26/12",10,2
+"Parque Chacabuco","26/12",10,2
+"Boedo","26/12",10,2
+"La Plata","26/12",10,2
+"Mataderos","26/12",10,2
+"Esteban Echeverría","26/12",10,2
+"Vicente López","26/12",10,2
+"Flores","26/12",10,1
+"Villa Real","26/12",10,1
+"Córdoba","26/12",10,1
+"Villa Lugano","26/12",10,1
+"Rosario","26/12",10,1
+"Boca","26/12",10,1
+"Villa Pueyrredón","26/12",10,1
+"San Telmo","26/12",10,1
+"Monserrat","26/12",10,1
+"Barracas","26/12",10,1
+"Villa del Parque","26/12",10,1
+"Morón","26/12",10,1
+"Hurlingham","26/12",10,1
+"Belgrano","26/12",10,1
+"San Miguel","26/12",10,1
+"Almagro","26/12",11,5
+"Palermo","26/12",11,5
+"Balvanera","26/12",11,3
+"Caballito","26/12",11,3
+"Villa Devoto","26/12",11,3
+"Villa Urquiza","26/12",11,3
+"Lanús","26/12",11,3
+"Colegiales","26/12",11,3
+"Villa Pueyrredón","26/12",11,2
+"San Isidro","26/12",11,2
+"Vicente López","26/12",11,2
+"Villa Crespo","26/12",11,2
+"Villa Riachuelo","26/12",11,2
+"Córdoba","26/12",11,2
+"Parque Patricios","26/12",11,2
+"Quilmes","26/12",11,2
+"Tres de Febrero","26/12",11,2
+"Mataderos","26/12",11,1
+"Flores","26/12",11,1
+"Villa Ortúzar","26/12",11,1
+"Versalles","26/12",11,1
+"Monserrat","26/12",11,1
+"La Plata","26/12",11,1
+"Chacarita","26/12",11,1
+"Florencio Varela","26/12",11,1
+"Núñez","26/12",11,1
+"La Matanza","26/12",11,1
+"Mendoza","26/12",11,1
+"Tigre","26/12",11,1
+"Villa Gral. Mitre","26/12",11,1
+"San Nicolás","26/12",11,1
+"Avellaneda","26/12",11,1
+"Belgrano","26/12",11,1
+"Agronomía","26/12",11,1
+"Lomas de Zamora","26/12",11,1
+"Almagro","26/12",12,5
+"Villa Crespo","26/12",12,4
+"Palermo","26/12",12,4
+"Caballito","26/12",12,3
+"Vicente López","26/12",12,3
+"La Matanza","26/12",12,2
+"San Nicolás","26/12",12,2
+"La Plata","26/12",12,2
+"Flores","26/12",12,2
+"Villa Urquiza","26/12",12,2
+"Belgrano","26/12",12,2
+"Esteban Echeverría","26/12",12,2
+"San Fernando","26/12",12,2
+"Colegiales","26/12",12,2
+"Quilmes","26/12",12,2
+"Parque Patricios","26/12",12,1
+"Malvinas Argentinas","26/12",12,1
+"Avellaneda","26/12",12,1
+"Villa Ortúzar","26/12",12,1
+"San Miguel","26/12",12,1
+"Villa del Parque","26/12",12,1
+"Liniers","26/12",12,1
+"Parque Chacabuco","26/12",12,1
+"Núñez","26/12",12,1
+"Ituzaingó","26/12",12,1
+"Recoleta","26/12",12,1
+"Villa Lugano","26/12",12,1
+"General San Martín","26/12",12,1
+"Lomas de Zamora","26/12",12,1
+"Chacarita","26/12",12,1
+"Balvanera","26/12",12,1
+"Parque Avellaneda","26/12",12,1
+"Tres de Febrero","26/12",12,1
+"Palermo","26/12",13,8
+"Caballito","26/12",13,4
+"Recoleta","26/12",13,4
+"Villa del Parque","26/12",13,4
+"Villa Urquiza","26/12",13,4
+"Belgrano","26/12",13,4
+"Balvanera","26/12",13,3
+"Almagro","26/12",13,3
+"Tres de Febrero","26/12",13,3
+"Vicente López","26/12",13,2
+"Villa Santa Rita","26/12",13,2
+"La Matanza","26/12",13,2
+"Villa Gral. Mitre","26/12",13,2
+"Lanús","26/12",13,2
+"Villa Devoto","26/12",13,2
+"Colegiales","26/12",13,1
+"Parque Chacabuco","26/12",13,1
+"Mendoza","26/12",13,1
+"Saavedra","26/12",13,1
+"San Nicolás","26/12",13,1
+"Villa Crespo","26/12",13,1
+"San Cristóbal","26/12",13,1
+"Mataderos","26/12",13,1
+"Ituzaingó","26/12",13,1
+"Villa Lugano","26/12",13,1
+"Agronomía","26/12",13,1
+"Córdoba","26/12",13,1
+"Lomas de Zamora","26/12",13,1
+"Flores","26/12",13,1
+"Parque Chas","26/12",13,1
+"Floresta","26/12",13,1
+"General San Martín","26/12",13,1
+"Parque Patricios","26/12",13,1
+"San Isidro","26/12",13,1
+"Monserrat","26/12",13,1
+"Villa Luro","26/12",13,1
+"Chacarita","26/12",13,1
+"Tigre","26/12",13,1
+"San Nicolás","26/12",14,12
+"Almagro","26/12",14,9
+"Palermo","26/12",14,8
+"Vicente López","26/12",14,8
+"Flores","26/12",14,8
+"Lomas de Zamora","26/12",14,7
+"Quilmes","26/12",14,7
+"Villa Crespo","26/12",14,7
+"Caballito","26/12",14,6
+"Parque Avellaneda","26/12",14,5
+"Avellaneda","26/12",14,5
+"La Matanza","26/12",14,4
+"Balvanera","26/12",14,4
+"Monserrat","26/12",14,4
+"Núñez","26/12",14,4
+"Lanús","26/12",14,4
+"Berazategui","26/12",14,4
+"Boedo","26/12",14,4
+"Villa del Parque","26/12",14,3
+"Morón","26/12",14,3
+"Colegiales","26/12",14,3
+"Chacarita","26/12",14,3
+"Parque Patricios","26/12",14,3
+"Vélez Sársfield","26/12",14,3
+"San Cristóbal","26/12",14,3
+"Recoleta","26/12",14,3
+"Monte Castro","26/12",14,2
+"Parque Chacabuco","26/12",14,2
+"Villa Santa Rita","26/12",14,2
+"Tres de Febrero","26/12",14,2
+"Villa Devoto","26/12",14,2
+"Belgrano","26/12",14,2
+"Floresta","26/12",14,2
+"Moreno","26/12",14,2
+"Puerto Madero","26/12",14,2
+"Almirante Brown","26/12",14,2
+"Mataderos","26/12",14,2
+"Liniers","26/12",14,2
+"Parque Chas","26/12",14,1
+"Córdoba","26/12",14,1
+"General San Martín","26/12",14,1
+"Villa Lugano","26/12",14,1
+"La Plata","26/12",14,1
+"Tigre","26/12",14,1
+"Merlo","26/12",14,1
+"Esteban Echeverría","26/12",14,1
+"Villa Urquiza","26/12",14,1
+"Agronomía","26/12",14,1
+"Villa Pueyrredón","26/12",14,1
+"Retiro","26/12",14,1
+"San Isidro","26/12",14,1
+"San Telmo","26/12",14,1
+"Barracas","26/12",14,1
+"Palermo","26/12",15,27
+"Villa Urquiza","26/12",15,9
+"Almagro","26/12",15,9
+"La Matanza","26/12",15,8
+"Caballito","26/12",15,8
+"Belgrano","26/12",15,8
+"Colegiales","26/12",15,8
+"Villa Devoto","26/12",15,6
+"San Isidro","26/12",15,6
+"Retiro","26/12",15,6
+"Flores","26/12",15,6
+"Vicente López","26/12",15,5
+"La Plata","26/12",15,5
+"Villa del Parque","26/12",15,5
+"Quilmes","26/12",15,5
+"Chacarita","26/12",15,5
+"Monserrat","26/12",15,5
+"Villa Crespo","26/12",15,5
+"Balvanera","26/12",15,4
+"Boedo","26/12",15,4
+"Barracas","26/12",15,4
+"San Cristóbal","26/12",15,4
+"Recoleta","26/12",15,4
+"Lanús","26/12",15,4
+"Mataderos","26/12",15,3
+"Saavedra","26/12",15,3
+"Morón","26/12",15,3
+"Tres de Febrero","26/12",15,3
+"Puerto Madero","26/12",15,3
+"San Nicolás","26/12",15,3
+"Núñez","26/12",15,3
+"Rosario","26/12",15,3
+"Villa Gral. Mitre","26/12",15,2
+"Parque Avellaneda","26/12",15,2
+"Villa Pueyrredón","26/12",15,2
+"Boca","26/12",15,2
+"Avellaneda","26/12",15,2
+"Ituzaingó","26/12",15,2
+"José C. Paz","26/12",15,2
+"Villa Santa Rita","26/12",15,2
+"Moreno","26/12",15,2
+"Parque Chacabuco","26/12",15,2
+"San Fernando","26/12",15,1
+"Coghlan","26/12",15,1
+"Esteban Echeverría","26/12",15,1
+"Liniers","26/12",15,1
+"Monte Castro","26/12",15,1
+"San Miguel","26/12",15,1
+"Floresta","26/12",15,1
+"Lomas de Zamora","26/12",15,1
+"Villa Ortúzar","26/12",15,1
+"Constitución","26/12",15,1
+"Almirante Brown","26/12",15,1
+"Vélez Sársfield","26/12",15,1
+"San Nicolás","26/12",16,13
+"Vicente López","26/12",16,12
+"Almagro","26/12",16,11
+"Palermo","26/12",16,10
+"Recoleta","26/12",16,9
+"Mataderos","26/12",16,8
+"Flores","26/12",16,8
+"La Matanza","26/12",16,8
+"Villa Urquiza","26/12",16,7
+"San Isidro","26/12",16,7
+"Quilmes","26/12",16,7
+"Caballito","26/12",16,7
+"Morón","26/12",16,7
+"Belgrano","26/12",16,7
+"Villa Crespo","26/12",16,6
+"Parque Avellaneda","26/12",16,5
+"Villa del Parque","26/12",16,5
+"Chacarita","26/12",16,5
+"Tres de Febrero","26/12",16,5
+"Monte Castro","26/12",16,5
+"Liniers","26/12",16,5
+"Avellaneda","26/12",16,4
+"Saavedra","26/12",16,4
+"Colegiales","26/12",16,4
+"Villa Pueyrredón","26/12",16,4
+"Villa Santa Rita","26/12",16,4
+"Núñez","26/12",16,4
+"Almirante Brown","26/12",16,4
+"General San Martín","26/12",16,4
+"Barracas","26/12",16,4
+"Merlo","26/12",16,3
+"Berazategui","26/12",16,3
+"San Fernando","26/12",16,3
+"Villa Ortúzar","26/12",16,3
+"Lomas de Zamora","26/12",16,3
+"Lanús","26/12",16,2
+"Villa Luro","26/12",16,2
+"Villa Lugano","26/12",16,2
+"Esteban Echeverría","26/12",16,2
+"Versalles","26/12",16,2
+"Balvanera","26/12",16,2
+"Tigre","26/12",16,2
+"Nueva Pompeya","26/12",16,2
+"Vélez Sársfield","26/12",16,2
+"Monserrat","26/12",16,2
+"Villa Gral. Mitre","26/12",16,2
+"Parque Chacabuco","26/12",16,2
+"San Cristóbal","26/12",16,2
+"Agronomía","26/12",16,2
+"Floresta","26/12",16,2
+"Coghlan","26/12",16,1
+"Paternal","26/12",16,1
+"Hurlingham","26/12",16,1
+"Moreno","26/12",16,1
+"Retiro","26/12",16,1
+"La Plata","26/12",16,1
+"Villa Real","26/12",16,1
+"Parque Chas","26/12",16,1
+"Constitución","26/12",16,1
+"Villa Devoto","26/12",16,1
+"Ituzaingó","26/12",16,1
+"José C. Paz","26/12",16,1
+"Palermo","26/12",17,19
+"Villa Crespo","26/12",17,14
+"Caballito","26/12",17,14
+"Belgrano","26/12",17,13
+"La Matanza","26/12",17,12
+"Balvanera","26/12",17,9
+"Lomas de Zamora","26/12",17,9
+"Recoleta","26/12",17,8
+"Vicente López","26/12",17,6
+"Morón","26/12",17,6
+"Avellaneda","26/12",17,6
+"Núñez","26/12",17,6
+"Hurlingham","26/12",17,6
+"General San Martín","26/12",17,6
+"Monte Castro","26/12",17,6
+"Villa Urquiza","26/12",17,6
+"Villa Santa Rita","26/12",17,6
+"Quilmes","26/12",17,5
+"Villa del Parque","26/12",17,5
+"San Isidro","26/12",17,5
+"Tres de Febrero","26/12",17,5
+"Lanús","26/12",17,4
+"Flores","26/12",17,4
+"Almagro","26/12",17,4
+"Parque Chacabuco","26/12",17,4
+"Mataderos","26/12",17,4
+"Boedo","26/12",17,4
+"Retiro","26/12",17,3
+"Monserrat","26/12",17,3
+"Colegiales","26/12",17,3
+"Villa Devoto","26/12",17,3
+"Barracas","26/12",17,2
+"Vélez Sársfield","26/12",17,2
+"Villa Gral. Mitre","26/12",17,2
+"Saavedra","26/12",17,2
+"Parque Avellaneda","26/12",17,2
+"San Cristóbal","26/12",17,2
+"Villa Riachuelo","26/12",17,2
+"San Nicolás","26/12",17,1
+"Florencio Varela","26/12",17,1
+"Boca","26/12",17,1
+"Villa Lugano","26/12",17,1
+"Liniers","26/12",17,1
+"San Telmo","26/12",17,1
+"Villa Ortúzar","26/12",17,1
+"Almirante Brown","26/12",17,1
+"Villa Luro","26/12",17,1
+"Parque Patricios","26/12",17,1
+"Merlo","26/12",17,1
+"Parque Chas","26/12",17,1
+"Berazategui","26/12",17,1
+"José C. Paz","26/12",17,1
+"Villa Pueyrredón","26/12",17,1
+"Constitución","26/12",17,1
+"Nueva Pompeya","26/12",17,1
+"Tigre","26/12",17,1
+"Córdoba","26/12",17,1
+"Floresta","26/12",17,1
+"Palermo","26/12",18,16
+"Belgrano","26/12",18,12
+"Caballito","26/12",18,12
+"Villa Crespo","26/12",18,8
+"Balvanera","26/12",18,6
+"Vicente López","26/12",18,4
+"San Isidro","26/12",18,4
+"Almagro","26/12",18,4
+"Recoleta","26/12",18,4
+"Mataderos","26/12",18,4
+"Parque Chas","26/12",18,4
+"Flores","26/12",18,4
+"La Matanza","26/12",18,4
+"Saavedra","26/12",18,3
+"Barracas","26/12",18,3
+"Villa Devoto","26/12",18,3
+"Villa Urquiza","26/12",18,3
+"Tres de Febrero","26/12",18,3
+"Lomas de Zamora","26/12",18,2
+"Villa del Parque","26/12",18,2
+"Villa Santa Rita","26/12",18,2
+"Agronomía","26/12",18,2
+"San Nicolás","26/12",18,2
+"Morón","26/12",18,2
+"General San Martín","26/12",18,2
+"Núñez","26/12",18,2
+"Villa Gral. Mitre","26/12",18,2
+"Colegiales","26/12",18,2
+"San Cristóbal","26/12",18,1
+"Villa Riachuelo","26/12",18,1
+"Lanús","26/12",18,1
+"La Plata","26/12",18,1
+"Parque Chacabuco","26/12",18,1
+"Floresta","26/12",18,1
+"Villa Real","26/12",18,1
+"Constitución","26/12",18,1
+"Rosario","26/12",18,1
+"Monserrat","26/12",18,1
+"Esteban Echeverría","26/12",18,1
+"Retiro","26/12",18,1
+"Paternal","26/12",18,1
+"Villa Pueyrredón","26/12",18,1
+"Parque Avellaneda","26/12",18,1
+"Boedo","26/12",18,1
+"Berazategui","26/12",18,1
+"Caballito","26/12",19,10
+"Palermo","26/12",19,9
+"Villa Crespo","26/12",19,7
+"Flores","26/12",19,6
+"Almagro","26/12",19,6
+"Vicente López","26/12",19,5
+"Balvanera","26/12",19,5
+"Mataderos","26/12",19,4
+"Belgrano","26/12",19,4
+"San Isidro","26/12",19,4
+"General San Martín","26/12",19,4
+"La Matanza","26/12",19,4
+"Villa Gral. Mitre","26/12",19,4
+"Villa Ortúzar","26/12",19,4
+"Villa Santa Rita","26/12",19,3
+"Versalles","26/12",19,3
+"Morón","26/12",19,3
+"Villa Urquiza","26/12",19,3
+"Tres de Febrero","26/12",19,3
+"Recoleta","26/12",19,3
+"Colegiales","26/12",19,2
+"Lomas de Zamora","26/12",19,2
+"Quilmes","26/12",19,2
+"Villa del Parque","26/12",19,2
+"San Telmo","26/12",19,2
+"Rosario","26/12",19,2
+"San Fernando","26/12",19,2
+"San Cristóbal","26/12",19,2
+"Esteban Echeverría","26/12",19,2
+"Boedo","26/12",19,2
+"Villa Pueyrredón","26/12",19,2
+"Parque Chacabuco","26/12",19,1
+"San Nicolás","26/12",19,1
+"Vélez Sársfield","26/12",19,1
+"Boca","26/12",19,1
+"Núñez","26/12",19,1
+"Monserrat","26/12",19,1
+"Merlo","26/12",19,1
+"Nueva Pompeya","26/12",19,1
+"Agronomía","26/12",19,1
+"Coghlan","26/12",19,1
+"Chacarita","26/12",19,1
+"Parque Avellaneda","26/12",19,1
+"Avellaneda","26/12",19,1
+"Liniers","26/12",19,1
+"Caballito","26/12",20,9
+"Almagro","26/12",20,9
+"Palermo","26/12",20,8
+"Belgrano","26/12",20,5
+"Tres de Febrero","26/12",20,4
+"Recoleta","26/12",20,4
+"Balvanera","26/12",20,4
+"Lomas de Zamora","26/12",20,4
+"La Plata","26/12",20,4
+"Flores","26/12",20,4
+"Villa Urquiza","26/12",20,4
+"Monte Castro","26/12",20,4
+"Almirante Brown","26/12",20,3
+"Saavedra","26/12",20,3
+"San Nicolás","26/12",20,3
+"Villa Devoto","26/12",20,3
+"Chacarita","26/12",20,2
+"Vicente López","26/12",20,2
+"Boedo","26/12",20,2
+"Villa Santa Rita","26/12",20,2
+"Villa del Parque","26/12",20,2
+"Avellaneda","26/12",20,2
+"San Isidro","26/12",20,2
+"Núñez","26/12",20,2
+"Villa Crespo","26/12",20,2
+"Villa Lugano","26/12",20,2
+"Floresta","26/12",20,2
+"San Cristóbal","26/12",20,1
+"Parque Avellaneda","26/12",20,1
+"Quilmes","26/12",20,1
+"Parque Chas","26/12",20,1
+"Villa Gral. Mitre","26/12",20,1
+"Hurlingham","26/12",20,1
+"Nueva Pompeya","26/12",20,1
+"Villa Pueyrredón","26/12",20,1
+"Tigre","26/12",20,1
+"Coghlan","26/12",20,1
+"Merlo","26/12",20,1
+"Morón","26/12",20,1
+"Retiro","26/12",20,1
+"Moreno","26/12",20,1
+"Parque Chacabuco","26/12",20,1
+"Vélez Sársfield","26/12",20,1
+"Constitución","26/12",20,1
+"Colegiales","26/12",20,1
+"La Matanza","26/12",20,1
+"Villa Ortúzar","26/12",20,1
+"General San Martín","26/12",20,1
+"Lanús","26/12",20,1
+"Caballito","26/12",21,9
+"Almagro","26/12",21,5
+"La Matanza","26/12",21,5
+"Palermo","26/12",21,5
+"Boedo","26/12",21,4
+"Flores","26/12",21,3
+"Saavedra","26/12",21,3
+"Núñez","26/12",21,3
+"Villa Urquiza","26/12",21,3
+"Belgrano","26/12",21,2
+"Paternal","26/12",21,2
+"Monte Castro","26/12",21,2
+"Hurlingham","26/12",21,2
+"Villa Crespo","26/12",21,2
+"San Isidro","26/12",21,2
+"Recoleta","26/12",21,2
+"Parque Avellaneda","26/12",21,2
+"Quilmes","26/12",21,1
+"Balvanera","26/12",21,1
+"Parque Chacabuco","26/12",21,1
+"Villa Lugano","26/12",21,1
+"Esteban Echeverría","26/12",21,1
+"Villa Pueyrredón","26/12",21,1
+"San Cristóbal","26/12",21,1
+"Villa del Parque","26/12",21,1
+"Lomas de Zamora","26/12",21,1
+"Villa Gral. Mitre","26/12",21,1
+"San Fernando","26/12",21,1
+"Almagro","26/12",22,7
+"Caballito","26/12",22,6
+"Recoleta","26/12",22,6
+"Palermo","26/12",22,6
+"Flores","26/12",22,5
+"Villa Crespo","26/12",22,4
+"Villa Urquiza","26/12",22,4
+"Balvanera","26/12",22,4
+"Monserrat","26/12",22,3
+"Villa Devoto","26/12",22,3
+"Colegiales","26/12",22,3
+"Belgrano","26/12",22,3
+"La Matanza","26/12",22,3
+"San Nicolás","26/12",22,3
+"Vicente López","26/12",22,3
+"Barracas","26/12",22,2
+"Vélez Sársfield","26/12",22,2
+"Boedo","26/12",22,2
+"Villa del Parque","26/12",22,2
+"Constitución","26/12",22,2
+"Villa Ortúzar","26/12",22,2
+"Chacarita","26/12",22,2
+"Tres de Febrero","26/12",22,2
+"Parque Patricios","26/12",22,2
+"Paternal","26/12",22,2
+"Núñez","26/12",22,2
+"Saavedra","26/12",22,2
+"Puerto Madero","26/12",22,2
+"Morón","26/12",22,2
+"San Cristóbal","26/12",22,2
+"Parque Chacabuco","26/12",22,1
+"General San Martín","26/12",22,1
+"Villa Santa Rita","26/12",22,1
+"Retiro","26/12",22,1
+"Ezeiza","26/12",22,1
+"Nueva Pompeya","26/12",22,1
+"Quilmes","26/12",22,1
+"Monte Castro","26/12",22,1
+"Malvinas Argentinas","26/12",22,1
+"Coghlan","26/12",22,1
+"Lomas de Zamora","26/12",22,1
+"Esteban Echeverría","26/12",22,1
+"Merlo","26/12",22,1
+"Parque Avellaneda","26/12",22,1
+"San Miguel","26/12",22,1
+"Ituzaingó","26/12",22,1
+"Liniers","26/12",22,1
+"Palermo","26/12",23,17
+"Balvanera","26/12",23,8
+"Almagro","26/12",23,7
+"San Nicolás","26/12",23,6
+"Caballito","26/12",23,6
+"Vicente López","26/12",23,5
+"San Cristóbal","26/12",23,4
+"General San Martín","26/12",23,4
+"Villa Devoto","26/12",23,4
+"Saavedra","26/12",23,3
+"Colegiales","26/12",23,3
+"Tres de Febrero","26/12",23,3
+"Villa Gral. Mitre","26/12",23,3
+"Lomas de Zamora","26/12",23,3
+"San Isidro","26/12",23,3
+"Mataderos","26/12",23,2
+"Recoleta","26/12",23,2
+"Villa Soldati","26/12",23,2
+"Puerto Madero","26/12",23,2
+"Núñez","26/12",23,2
+"Belgrano","26/12",23,2
+"Esteban Echeverría","26/12",23,2
+"Flores","26/12",23,2
+"Morón","26/12",23,2
+"Boedo","26/12",23,2
+"Monte Castro","26/12",23,2
+"La Plata","26/12",23,2
+"Florencio Varela","26/12",23,1
+"Chacarita","26/12",23,1
+"La Matanza","26/12",23,1
+"Floresta","26/12",23,1
+"Villa Urquiza","26/12",23,1
+"Villa Crespo","26/12",23,1
+"Merlo","26/12",23,1
+"Parque Patricios","26/12",23,1
+"Barracas","26/12",23,1
+"Tigre","26/12",23,1
+"José C. Paz","26/12",23,1
+"Villa Santa Rita","26/12",23,1
+"Avellaneda","26/12",23,1
+"Villa Pueyrredón","26/12",23,1
+"Villa Luro","26/12",23,1
+"San Fernando","26/12",23,1
+"Parque Avellaneda","26/12",23,1
+"Lanús","26/12",23,1
+"Paternal","26/12",23,1
+"Constitución","26/12",23,1
+"Rosario","26/12",23,1
+"Parque Chacabuco","26/12",23,1
+"Caballito","27/12",0,6
+"Palermo","27/12",0,5
+"Parque Chacabuco","27/12",0,4
+"Villa Urquiza","27/12",0,4
+"Barracas","27/12",0,3
+"Núñez","27/12",0,3
+"General San Martín","27/12",0,3
+"Villa Gral. Mitre","27/12",0,3
+"Villa Devoto","27/12",0,3
+"Villa del Parque","27/12",0,2
+"Recoleta","27/12",0,2
+"San Cristóbal","27/12",0,2
+"Villa Lugano","27/12",0,2
+"Vicente López","27/12",0,2
+"Monte Castro","27/12",0,2
+"Villa Pueyrredón","27/12",0,2
+"Lanús","27/12",0,2
+"Flores","27/12",0,2
+"Chacarita","27/12",0,2
+"Retiro","27/12",0,1
+"Versalles","27/12",0,1
+"Villa Luro","27/12",0,1
+"Parque Patricios","27/12",0,1
+"Villa Santa Rita","27/12",0,1
+"Saavedra","27/12",0,1
+"Colegiales","27/12",0,1
+"Belgrano","27/12",0,1
+"Tres de Febrero","27/12",0,1
+"Parque Avellaneda","27/12",0,1
+"San Isidro","27/12",0,1
+"Avellaneda","27/12",0,1
+"San Fernando","27/12",0,1
+"Villa Ortúzar","27/12",0,1
+"Quilmes","27/12",0,1
+"José C. Paz","27/12",0,1
+"Lomas de Zamora","27/12",0,1
+"Caballito","27/12",1,3
+"Palermo","27/12",1,3
+"Villa Crespo","27/12",1,3
+"La Matanza","27/12",1,3
+"Balvanera","27/12",1,3
+"Barracas","27/12",1,2
+"Villa Luro","27/12",1,2
+"Lanús","27/12",1,2
+"Villa Pueyrredón","27/12",1,2
+"Tres de Febrero","27/12",1,2
+"Hurlingham","27/12",1,1
+"Parque Patricios","27/12",1,1
+"Villa Devoto","27/12",1,1
+"General San Martín","27/12",1,1
+"Flores","27/12",1,1
+"Villa Lugano","27/12",1,1
+"Recoleta","27/12",1,1
+"Villa Soldati","27/12",1,1
+"Chacarita","27/12",1,1
+"Saavedra","27/12",1,1
+"Villa Santa Rita","27/12",1,1
+"Belgrano","27/12",1,1
+"Monte Castro","27/12",1,1
+"Esteban Echeverría","27/12",1,1
+"San Isidro","27/12",1,1
+"San Fernando","27/12",1,1
+"Villa Riachuelo","27/12",1,1
+"Mataderos","27/12",1,1
+"Coghlan","27/12",1,1
+"Villa Ortúzar","27/12",1,1
+"Nueva Pompeya","27/12",1,1
+"Villa del Parque","27/12",1,1
+"Lomas de Zamora","27/12",1,1
+"San Nicolás","27/12",1,1
+"Caballito","27/12",2,3
+"Palermo","27/12",2,2
+"Almagro","27/12",2,2
+"Villa Gral. Mitre","27/12",2,1
+"San Nicolás","27/12",2,1
+"Parque Chas","27/12",2,1
+"Nueva Pompeya","27/12",2,1
+"Tres de Febrero","27/12",2,1
+"Merlo","27/12",2,1
+"Villa Urquiza","27/12",2,1
+"Villa Real","27/12",2,1
+"Villa Luro","27/12",2,1
+"Liniers","27/12",2,1
+"Núñez","27/12",2,1
+"Mendoza","27/12",2,1
+"Versalles","27/12",2,1
+"Balvanera","27/12",2,1
+"Flores","27/12",2,1
+"Palermo","27/12",3,2
+"Parque Chas","27/12",3,1
+"Caballito","27/12",3,1
+"San Cristóbal","27/12",3,1
+"Esteban Echeverría","27/12",3,1
+"Avellaneda","27/12",3,1
+"Retiro","27/12",4,1
+"Lomas de Zamora","27/12",4,1
+"Villa Devoto","27/12",4,1
+"Almagro","27/12",4,1
+"Quilmes","27/12",4,1
+"Belgrano","27/12",5,1
+"Almagro","27/12",6,2
+"Avellaneda","27/12",6,1
+"Parque Chacabuco","27/12",6,1
+"Colegiales","27/12",6,1
+"Lomas de Zamora","27/12",6,1
+"Caballito","27/12",6,1
+"Belgrano","27/12",6,1
+"Córdoba","27/12",6,1
+"Balvanera","27/12",6,1
+"La Matanza","27/12",7,1
+"Balvanera","27/12",7,1
+"Villa Crespo","27/12",7,1
+"San Isidro","27/12",7,1
+"San Nicolás","27/12",7,1
+"Floresta","27/12",7,1
+"Almagro","27/12",7,1
+"Tres de Febrero","27/12",7,1
+"Villa Urquiza","27/12",7,1
+"Nueva Pompeya","27/12",7,1
+"Avellaneda","27/12",7,1
+"Monserrat","27/12",7,1
+"Boedo","27/12",7,1
+"Parque Avellaneda","27/12",7,1
+"Constitución","27/12",7,1
+"Caballito","27/12",7,1
+"Caballito","27/12",8,3
+"San Isidro","27/12",8,2
+"Recoleta","27/12",8,2
+"Floresta","27/12",8,2
+"Morón","27/12",8,2
+"Palermo","27/12",8,2
+"Villa Santa Rita","27/12",8,1
+"Liniers","27/12",8,1
+"Núñez","27/12",8,1
+"Vicente López","27/12",8,1
+"Nueva Pompeya","27/12",8,1
+"Lanús","27/12",8,1
+"Mataderos","27/12",8,1
+"Esteban Echeverría","27/12",8,1
+"Almagro","27/12",8,1
+"Balvanera","27/12",8,1
+"Flores","27/12",8,1
+"Villa Crespo","27/12",8,1
+"Coghlan","27/12",8,1
+"Almagro","27/12",9,8
+"Belgrano","27/12",9,7
+"Villa Santa Rita","27/12",9,6
+"Liniers","27/12",9,5
+"Vicente López","27/12",9,4
+"Colegiales","27/12",9,4
+"Caballito","27/12",9,4
+"Palermo","27/12",9,4
+"Monte Castro","27/12",9,3
+"Saavedra","27/12",9,3
+"Recoleta","27/12",9,3
+"La Matanza","27/12",9,3
+"Villa del Parque","27/12",9,3
+"Villa Luro","27/12",9,2
+"Boedo","27/12",9,2
+"Núñez","27/12",9,2
+"Paternal","27/12",9,2
+"San Cristóbal","27/12",9,2
+"San Nicolás","27/12",9,2
+"Retiro","27/12",9,2
+"Villa Crespo","27/12",9,2
+"Lanús","27/12",9,2
+"Parque Avellaneda","27/12",9,2
+"Villa Urquiza","27/12",9,2
+"Flores","27/12",9,2
+"Avellaneda","27/12",9,2
+"General San Martín","27/12",9,2
+"Parque Chas","27/12",9,1
+"Villa Gral. Mitre","27/12",9,1
+"Versalles","27/12",9,1
+"Barracas","27/12",9,1
+"Quilmes","27/12",9,1
+"Malvinas Argentinas","27/12",9,1
+"San Isidro","27/12",9,1
+"Lomas de Zamora","27/12",9,1
+"San Telmo","27/12",9,1
+"Morón","27/12",9,1
+"Parque Patricios","27/12",9,1
+"Monserrat","27/12",9,1
+"Tres de Febrero","27/12",9,1
+"Chacarita","27/12",9,1
+"Palermo","27/12",10,10
+"Villa del Parque","27/12",10,6
+"Caballito","27/12",10,6
+"Villa Crespo","27/12",10,5
+"Avellaneda","27/12",10,5
+"Almagro","27/12",10,4
+"Chacarita","27/12",10,4
+"Villa Urquiza","27/12",10,4
+"Villa Santa Rita","27/12",10,4
+"Recoleta","27/12",10,3
+"Quilmes","27/12",10,3
+"Vélez Sársfield","27/12",10,3
+"Boedo","27/12",10,3
+"Vicente López","27/12",10,3
+"San Cristóbal","27/12",10,3
+"Belgrano","27/12",10,3
+"Balvanera","27/12",10,3
+"Villa Luro","27/12",10,3
+"Parque Patricios","27/12",10,3
+"Monserrat","27/12",10,3
+"Colegiales","27/12",10,2
+"Saavedra","27/12",10,2
+"San Nicolás","27/12",10,2
+"Villa Gral. Mitre","27/12",10,2
+"Villa Ortúzar","27/12",10,2
+"Tigre","27/12",10,2
+"Flores","27/12",10,2
+"Lomas de Zamora","27/12",10,2
+"San Isidro","27/12",10,2
+"La Matanza","27/12",10,1
+"Puerto Madero","27/12",10,1
+"Floresta","27/12",10,1
+"Mataderos","27/12",10,1
+"Agronomía","27/12",10,1
+"Almirante Brown","27/12",10,1
+"San Miguel","27/12",10,1
+"Tres de Febrero","27/12",10,1
+"Morón","27/12",10,1
+"Malvinas Argentinas","27/12",10,1
+"Núñez","27/12",10,1
+"Ituzaingó","27/12",10,1
+"San Telmo","27/12",10,1
+"Flores","27/12",11,10
+"Palermo","27/12",11,10
+"Almagro","27/12",11,9
+"Caballito","27/12",11,8
+"Belgrano","27/12",11,7
+"Villa Devoto","27/12",11,5
+"San Isidro","27/12",11,5
+"Recoleta","27/12",11,4
+"Vélez Sársfield","27/12",11,4
+"Paternal","27/12",11,4
+"Villa Crespo","27/12",11,4
+"Mataderos","27/12",11,3
+"Lomas de Zamora","27/12",11,2
+"Almirante Brown","27/12",11,2
+"Parque Chas","27/12",11,2
+"Versalles","27/12",11,2
+"Boedo","27/12",11,2
+"Villa Gral. Mitre","27/12",11,2
+"Núñez","27/12",11,2
+"Villa del Parque","27/12",11,2
+"Vicente López","27/12",11,2
+"San Nicolás","27/12",11,2
+"San Telmo","27/12",11,2
+"Monte Castro","27/12",11,2
+"Balvanera","27/12",11,2
+"Villa Santa Rita","27/12",11,2
+"San Cristóbal","27/12",11,2
+"Saavedra","27/12",11,2
+"Colegiales","27/12",11,2
+"Lanús","27/12",11,1
+"Villa Pueyrredón","27/12",11,1
+"Coghlan","27/12",11,1
+"José C. Paz","27/12",11,1
+"Retiro","27/12",11,1
+"La Plata","27/12",11,1
+"Barracas","27/12",11,1
+"Quilmes","27/12",11,1
+"La Matanza","27/12",11,1
+"Villa Urquiza","27/12",11,1
+"Parque Chacabuco","27/12",11,1
+"Chacarita","27/12",11,1
+"Morón","27/12",11,1
+"Palermo","27/12",12,18
+"Caballito","27/12",12,12
+"Belgrano","27/12",12,11
+"Villa Crespo","27/12",12,10
+"Recoleta","27/12",12,9
+"Flores","27/12",12,9
+"Almagro","27/12",12,7
+"Balvanera","27/12",12,5
+"Monte Castro","27/12",12,4
+"Boedo","27/12",12,4
+"Vicente López","27/12",12,4
+"Quilmes","27/12",12,3
+"Núñez","27/12",12,3
+"Liniers","27/12",12,3
+"Avellaneda","27/12",12,3
+"Barracas","27/12",12,3
+"Tigre","27/12",12,3
+"San Nicolás","27/12",12,2
+"Colegiales","27/12",12,2
+"Lanús","27/12",12,2
+"Villa Pueyrredón","27/12",12,2
+"Rosario","27/12",12,2
+"Villa Ortúzar","27/12",12,2
+"San Isidro","27/12",12,2
+"Villa del Parque","27/12",12,2
+"Villa Gral. Mitre","27/12",12,2
+"Villa Urquiza","27/12",12,2
+"Vélez Sársfield","27/12",12,2
+"Villa Devoto","27/12",12,2
+"Floresta","27/12",12,1
+"José C. Paz","27/12",12,1
+"Agronomía","27/12",12,1
+"Saavedra","27/12",12,1
+"Tres de Febrero","27/12",12,1
+"Nueva Pompeya","27/12",12,1
+"San Telmo","27/12",12,1
+"Parque Chacabuco","27/12",12,1
+"San Fernando","27/12",12,1
+"Lomas de Zamora","27/12",12,1
+"Ituzaingó","27/12",12,1
+"Esteban Echeverría","27/12",12,1
+"Chacarita","27/12",12,1
+"Berazategui","27/12",12,1
+"Parque Avellaneda","27/12",12,1
+"Almirante Brown","27/12",12,1
+"Retiro","27/12",12,1
+"Parque Patricios","27/12",12,1
+"Villa Real","27/12",12,1
+"Morón","27/12",12,1
+"San Miguel","27/12",12,1
+"Monserrat","27/12",12,1
+"San Cristóbal","27/12",12,1
+"General San Martín","27/12",12,1
+"Villa Santa Rita","27/12",12,1
+"Caballito","27/12",13,19
+"Palermo","27/12",13,17
+"Villa Crespo","27/12",13,13
+"Belgrano","27/12",13,12
+"Almagro","27/12",13,10
+"Vicente López","27/12",13,8
+"Balvanera","27/12",13,8
+"Recoleta","27/12",13,7
+"Tres de Febrero","27/12",13,6
+"Morón","27/12",13,5
+"Vélez Sársfield","27/12",13,5
+"Villa Urquiza","27/12",13,5
+"Parque Chacabuco","27/12",13,5
+"Monserrat","27/12",13,5
+"Villa Pueyrredón","27/12",13,4
+"Flores","27/12",13,4
+"Lomas de Zamora","27/12",13,4
+"Villa del Parque","27/12",13,4
+"Avellaneda","27/12",13,3
+"Lanús","27/12",13,3
+"Chacarita","27/12",13,3
+"Floresta","27/12",13,3
+"San Isidro","27/12",13,3
+"La Matanza","27/12",13,3
+"Retiro","27/12",13,2
+"Boca","27/12",13,2
+"Versalles","27/12",13,2
+"Villa Ortúzar","27/12",13,2
+"San Cristóbal","27/12",13,2
+"San Nicolás","27/12",13,2
+"Mataderos","27/12",13,2
+"Liniers","27/12",13,2
+"Quilmes","27/12",13,2
+"General San Martín","27/12",13,2
+"Parque Patricios","27/12",13,2
+"Constitución","27/12",13,2
+"Colegiales","27/12",13,2
+"San Telmo","27/12",13,2
+"Saavedra","27/12",13,2
+"Rosario","27/12",13,1
+"Coghlan","27/12",13,1
+"Villa Gral. Mitre","27/12",13,1
+"Barracas","27/12",13,1
+"Monte Castro","27/12",13,1
+"Parque Chas","27/12",13,1
+"Núñez","27/12",13,1
+"Villa Santa Rita","27/12",13,1
+"Agronomía","27/12",13,1
+"Nueva Pompeya","27/12",13,1
+"Almirante Brown","27/12",13,1
+"Malvinas Argentinas","27/12",13,1
+"Villa Devoto","27/12",13,1
+"Villa Luro","27/12",13,1
+"Esteban Echeverría","27/12",13,1
+"Boedo","27/12",13,1
+"Villa Riachuelo","27/12",13,1
+"Tigre","27/12",13,1
+"Nueva Pompeya","27/12",14,20
+"Caballito","27/12",14,19
+"Almagro","27/12",14,15
+"Palermo","27/12",14,15
+"Flores","27/12",14,13
+"Villa Crespo","27/12",14,12
+"Saavedra","27/12",14,12
+"Belgrano","27/12",14,10
+"Liniers","27/12",14,9
+"Villa Devoto","27/12",14,9
+"Parque Chacabuco","27/12",14,8
+"Villa Urquiza","27/12",14,7
+"Puerto Madero","27/12",14,6
+"Paternal","27/12",14,6
+"Recoleta","27/12",14,6
+"Retiro","27/12",14,5
+"Lanús","27/12",14,5
+"Villa del Parque","27/12",14,5
+"Balvanera","27/12",14,5
+"Monserrat","27/12",14,5
+"Boca","27/12",14,5
+"Vicente López","27/12",14,4
+"San Cristóbal","27/12",14,4
+"Lomas de Zamora","27/12",14,4
+"San Isidro","27/12",14,4
+"Mataderos","27/12",14,4
+"Villa Gral. Mitre","27/12",14,4
+"Villa Ortúzar","27/12",14,4
+"La Matanza","27/12",14,3
+"Versalles","27/12",14,3
+"General San Martín","27/12",14,3
+"San Nicolás","27/12",14,3
+"Barracas","27/12",14,3
+"Parque Avellaneda","27/12",14,3
+"Almirante Brown","27/12",14,3
+"Constitución","27/12",14,2
+"Avellaneda","27/12",14,2
+"Chacarita","27/12",14,2
+"Parque Chas","27/12",14,2
+"La Plata","27/12",14,2
+"Tigre","27/12",14,2
+"Villa Pueyrredón","27/12",14,2
+"Floresta","27/12",14,1
+"Tres de Febrero","27/12",14,1
+"Boedo","27/12",14,1
+"Moreno","27/12",14,1
+"Villa Luro","27/12",14,1
+"Rosario","27/12",14,1
+"Colegiales","27/12",14,1
+"Vélez Sársfield","27/12",14,1
+"Villa Soldati","27/12",14,1
+"Coghlan","27/12",14,1
+"Villa Santa Rita","27/12",14,1
+"Parque Patricios","27/12",14,1
+"Villa Lugano","27/12",14,1
+"Núñez","27/12",14,1
+"Villa Riachuelo","27/12",14,1
+"San Miguel","27/12",14,1
+"San Fernando","27/12",14,1
+"Caballito","27/12",15,25
+"Almagro","27/12",15,19
+"Boedo","27/12",15,17
+"Belgrano","27/12",15,15
+"Villa Crespo","27/12",15,14
+"Palermo","27/12",15,14
+"Saavedra","27/12",15,12
+"Villa Riachuelo","27/12",15,10
+"Flores","27/12",15,10
+"Balvanera","27/12",15,10
+"Vicente López","27/12",15,8
+"Parque Chacabuco","27/12",15,8
+"Villa Urquiza","27/12",15,7
+"San Isidro","27/12",15,7
+"Agronomía","27/12",15,6
+"San Nicolás","27/12",15,6
+"San Cristóbal","27/12",15,6
+"Recoleta","27/12",15,6
+"Tres de Febrero","27/12",15,5
+"Villa Devoto","27/12",15,5
+"Villa del Parque","27/12",15,5
+"La Matanza","27/12",15,4
+"Lanús","27/12",15,4
+"Retiro","27/12",15,3
+"Quilmes","27/12",15,3
+"Lomas de Zamora","27/12",15,3
+"Parque Chas","27/12",15,3
+"Parque Patricios","27/12",15,3
+"Villa Soldati","27/12",15,3
+"Colegiales","27/12",15,2
+"Ituzaingó","27/12",15,2
+"Villa Gral. Mitre","27/12",15,2
+"San Fernando","27/12",15,2
+"Núñez","27/12",15,2
+"Monte Castro","27/12",15,2
+"Constitución","27/12",15,2
+"Monserrat","27/12",15,2
+"San Telmo","27/12",15,2
+"Villa Santa Rita","27/12",15,2
+"Parque Avellaneda","27/12",15,2
+"Almirante Brown","27/12",15,2
+"General San Martín","27/12",15,1
+"Rosario","27/12",15,1
+"Merlo","27/12",15,1
+"Nueva Pompeya","27/12",15,1
+"Liniers","27/12",15,1
+"Vélez Sársfield","27/12",15,1
+"Versalles","27/12",15,1
+"Puerto Madero","27/12",15,1
+"Villa Lugano","27/12",15,1
+"Coghlan","27/12",15,1
+"Esteban Echeverría","27/12",15,1
+"Villa Luro","27/12",15,1
+"Morón","27/12",15,1
+"Tigre","27/12",15,1
+"Chacarita","27/12",15,1
+"Palermo","27/12",16,32
+"Almagro","27/12",16,24
+"Belgrano","27/12",16,23
+"Villa Crespo","27/12",16,20
+"Caballito","27/12",16,19
+"Flores","27/12",16,14
+"Lomas de Zamora","27/12",16,11
+"Villa Devoto","27/12",16,11
+"Avellaneda","27/12",16,10
+"Recoleta","27/12",16,10
+"Balvanera","27/12",16,10
+"Villa Santa Rita","27/12",16,10
+"San Nicolás","27/12",16,9
+"Saavedra","27/12",16,8
+"Núñez","27/12",16,8
+"Puerto Madero","27/12",16,8
+"San Cristóbal","27/12",16,7
+"Vicente López","27/12",16,7
+"La Matanza","27/12",16,7
+"Monserrat","27/12",16,7
+"La Plata","27/12",16,7
+"Parque Patricios","27/12",16,7
+"Boedo","27/12",16,7
+"Mataderos","27/12",16,6
+"Villa Urquiza","27/12",16,6
+"San Isidro","27/12",16,6
+"Quilmes","27/12",16,5
+"Parque Avellaneda","27/12",16,5
+"Lanús","27/12",16,5
+"Tres de Febrero","27/12",16,5
+"Villa Pueyrredón","27/12",16,4
+"Boca","27/12",16,4
+"Coghlan","27/12",16,4
+"Morón","27/12",16,4
+"Colegiales","27/12",16,4
+"Barracas","27/12",16,4
+"Monte Castro","27/12",16,4
+"Villa del Parque","27/12",16,3
+"Villa Riachuelo","27/12",16,3
+"Villa Ortúzar","27/12",16,3
+"Hurlingham","27/12",16,3
+"Parque Chacabuco","27/12",16,2
+"San Fernando","27/12",16,2
+"Nueva Pompeya","27/12",16,2
+"San Telmo","27/12",16,2
+"Paternal","27/12",16,2
+"Villa Lugano","27/12",16,2
+"Almirante Brown","27/12",16,2
+"Parque Chas","27/12",16,2
+"Tigre","27/12",16,2
+"Floresta","27/12",16,2
+"Córdoba","27/12",16,1
+"Constitución","27/12",16,1
+"Retiro","27/12",16,1
+"Moreno","27/12",16,1
+"Agronomía","27/12",16,1
+"General San Martín","27/12",16,1
+"Ituzaingó","27/12",16,1
+"Villa Real","27/12",16,1
+"Villa Gral. Mitre","27/12",16,1
+"San Miguel","27/12",16,1
+"Florencio Varela","27/12",16,1
+"José C. Paz","27/12",16,1
+"Merlo","27/12",16,1
+"Esteban Echeverría","27/12",16,1
+"Caballito","27/12",17,27
+"Palermo","27/12",17,26
+"Villa Urquiza","27/12",17,23
+"Almagro","27/12",17,22
+"Recoleta","27/12",17,18
+"Belgrano","27/12",17,17
+"Villa Crespo","27/12",17,13
+"Villa del Parque","27/12",17,12
+"Balvanera","27/12",17,11
+"Vicente López","27/12",17,11
+"Boedo","27/12",17,11
+"Lomas de Zamora","27/12",17,10
+"Tres de Febrero","27/12",17,10
+"Flores","27/12",17,9
+"Parque Chacabuco","27/12",17,8
+"Avellaneda","27/12",17,8
+"Villa Devoto","27/12",17,7
+"Villa Gral. Mitre","27/12",17,7
+"Saavedra","27/12",17,7
+"Monte Castro","27/12",17,6
+"San Nicolás","27/12",17,6
+"Colegiales","27/12",17,6
+"Chacarita","27/12",17,6
+"Lanús","27/12",17,6
+"Núñez","27/12",17,6
+"Mataderos","27/12",17,6
+"San Isidro","27/12",17,5
+"Villa Luro","27/12",17,5
+"Barracas","27/12",17,5
+"General San Martín","27/12",17,5
+"Villa Ortúzar","27/12",17,4
+"Coghlan","27/12",17,4
+"San Cristóbal","27/12",17,4
+"Morón","27/12",17,4
+"Liniers","27/12",17,4
+"Quilmes","27/12",17,4
+"Esteban Echeverría","27/12",17,4
+"Parque Patricios","27/12",17,4
+"Floresta","27/12",17,4
+"La Plata","27/12",17,4
+"La Matanza","27/12",17,3
+"Paternal","27/12",17,3
+"Parque Chas","27/12",17,3
+"Villa Lugano","27/12",17,3
+"Vélez Sársfield","27/12",17,3
+"San Fernando","27/12",17,3
+"Parque Avellaneda","27/12",17,3
+"Villa Pueyrredón","27/12",17,2
+"Almirante Brown","27/12",17,2
+"Boca","27/12",17,2
+"Villa Real","27/12",17,2
+"Villa Riachuelo","27/12",17,2
+"Versalles","27/12",17,2
+"Ituzaingó","27/12",17,2
+"Rosario","27/12",17,2
+"Tigre","27/12",17,1
+"Puerto Madero","27/12",17,1
+"Monserrat","27/12",17,1
+"Nueva Pompeya","27/12",17,1
+"Berazategui","27/12",17,1
+"Retiro","27/12",17,1
+"San Telmo","27/12",17,1
+"Florencio Varela","27/12",17,1
+"Villa Santa Rita","27/12",17,1
+"Hurlingham","27/12",17,1
+"Caballito","27/12",18,37
+"Palermo","27/12",18,31
+"Flores","27/12",18,25
+"Villa Urquiza","27/12",18,22
+"Almagro","27/12",18,21
+"Belgrano","27/12",18,18
+"Villa Crespo","27/12",18,18
+"Balvanera","27/12",18,12
+"Lanús","27/12",18,12
+"Monte Castro","27/12",18,11
+"San Cristóbal","27/12",18,10
+"Recoleta","27/12",18,10
+"Avellaneda","27/12",18,10
+"Vicente López","27/12",18,10
+"General San Martín","27/12",18,10
+"Villa Devoto","27/12",18,9
+"La Matanza","27/12",18,9
+"Villa Gral. Mitre","27/12",18,8
+"Versalles","27/12",18,8
+"Tres de Febrero","27/12",18,8
+"Parque Avellaneda","27/12",18,8
+"Colegiales","27/12",18,7
+"Parque Chacabuco","27/12",18,7
+"Núñez","27/12",18,6
+"Villa Ortúzar","27/12",18,6
+"Villa del Parque","27/12",18,6
+"Parque Patricios","27/12",18,5
+"Villa Santa Rita","27/12",18,5
+"Quilmes","27/12",18,5
+"San Isidro","27/12",18,5
+"Saavedra","27/12",18,5
+"Villa Lugano","27/12",18,5
+"Barracas","27/12",18,5
+"Lomas de Zamora","27/12",18,5
+"Boedo","27/12",18,4
+"Parque Chas","27/12",18,4
+"Villa Pueyrredón","27/12",18,4
+"La Plata","27/12",18,4
+"Ituzaingó","27/12",18,4
+"San Nicolás","27/12",18,4
+"Coghlan","27/12",18,3
+"San Telmo","27/12",18,3
+"Constitución","27/12",18,3
+"San Fernando","27/12",18,3
+"Berazategui","27/12",18,3
+"Mataderos","27/12",18,3
+"Retiro","27/12",18,3
+"Morón","27/12",18,3
+"Chacarita","27/12",18,3
+"Nueva Pompeya","27/12",18,3
+"Floresta","27/12",18,3
+"Boca","27/12",18,3
+"Rosario","27/12",18,2
+"Tigre","27/12",18,2
+"Almirante Brown","27/12",18,2
+"Córdoba","27/12",18,2
+"San Miguel","27/12",18,1
+"Paternal","27/12",18,1
+"Villa Real","27/12",18,1
+"Monserrat","27/12",18,1
+"Villa Luro","27/12",18,1
+"Merlo","27/12",18,1
+"Moreno","27/12",18,1
+"Vélez Sársfield","27/12",18,1
+"Liniers","27/12",18,1
+"Palermo","27/12",19,24
+"Caballito","27/12",19,21
+"Villa Urquiza","27/12",19,12
+"Almagro","27/12",19,11
+"Villa Crespo","27/12",19,10
+"Recoleta","27/12",19,9
+"La Matanza","27/12",19,8
+"Belgrano","27/12",19,7
+"Balvanera","27/12",19,7
+"San Isidro","27/12",19,6
+"Villa Devoto","27/12",19,6
+"Constitución","27/12",19,6
+"Parque Avellaneda","27/12",19,5
+"San Cristóbal","27/12",19,5
+"Villa del Parque","27/12",19,5
+"General San Martín","27/12",19,5
+"Colegiales","27/12",19,4
+"Villa Lugano","27/12",19,4
+"Boedo","27/12",19,4
+"Flores","27/12",19,4
+"Villa Gral. Mitre","27/12",19,4
+"Lanús","27/12",19,4
+"Liniers","27/12",19,4
+"Núñez","27/12",19,4
+"Morón","27/12",19,4
+"La Plata","27/12",19,4
+"Tres de Febrero","27/12",19,4
+"Villa Luro","27/12",19,3
+"Barracas","27/12",19,3
+"Vélez Sársfield","27/12",19,3
+"Saavedra","27/12",19,3
+"Vicente López","27/12",19,3
+"Mataderos","27/12",19,2
+"Monte Castro","27/12",19,2
+"Lomas de Zamora","27/12",19,2
+"Boca","27/12",19,2
+"Merlo","27/12",19,2
+"Avellaneda","27/12",19,2
+"Paternal","27/12",19,2
+"Villa Pueyrredón","27/12",19,2
+"Parque Chacabuco","27/12",19,2
+"San Fernando","27/12",19,2
+"Agronomía","27/12",19,2
+"Ituzaingó","27/12",19,2
+"Tigre","27/12",19,2
+"Almirante Brown","27/12",19,1
+"San Nicolás","27/12",19,1
+"Parque Chas","27/12",19,1
+"Villa Ortúzar","27/12",19,1
+"Coghlan","27/12",19,1
+"Hurlingham","27/12",19,1
+"José C. Paz","27/12",19,1
+"Parque Patricios","27/12",19,1
+"Retiro","27/12",19,1
+"Villa Santa Rita","27/12",19,1
+"Esteban Echeverría","27/12",19,1
+"Quilmes","27/12",19,1
+"Nueva Pompeya","27/12",19,1
+"Córdoba","27/12",19,1
+"Caballito","27/12",20,71
+"Palermo","27/12",20,50
+"Almagro","27/12",20,49
+"La Matanza","27/12",20,47
+"Villa Urquiza","27/12",20,41
+"Balvanera","27/12",20,39
+"Flores","27/12",20,38
+"Lomas de Zamora","27/12",20,37
+"Lanús","27/12",20,35
+"Avellaneda","27/12",20,33
+"Belgrano","27/12",20,31
+"Villa Crespo","27/12",20,28
+"Tres de Febrero","27/12",20,26
+"Vicente López","27/12",20,25
+"Parque Chacabuco","27/12",20,20
+"Villa del Parque","27/12",20,20
+"Recoleta","27/12",20,19
+"San Cristóbal","27/12",20,18
+"San Isidro","27/12",20,16
+"San Fernando","27/12",20,15
+"Morón","27/12",20,15
+"Villa Lugano","27/12",20,15
+"Monte Castro","27/12",20,14
+"Liniers","27/12",20,14
+"Quilmes","27/12",20,14
+"Mataderos","27/12",20,13
+"Núñez","27/12",20,13
+"Boedo","27/12",20,12
+"La Plata","27/12",20,12
+"Barracas","27/12",20,11
+"Almirante Brown","27/12",20,11
+"General San Martín","27/12",20,11
+"Saavedra","27/12",20,11
+"Merlo","27/12",20,10
+"Colegiales","27/12",20,10
+"Villa Santa Rita","27/12",20,10
+"Villa Gral. Mitre","27/12",20,10
+"Ituzaingó","27/12",20,9
+"Parque Avellaneda","27/12",20,9
+"Villa Pueyrredón","27/12",20,9
+"Chacarita","27/12",20,8
+"San Telmo","27/12",20,8
+"Tigre","27/12",20,8
+"Constitución","27/12",20,7
+"Parque Patricios","27/12",20,7
+"San Miguel","27/12",20,7
+"Hurlingham","27/12",20,7
+"Villa Devoto","27/12",20,7
+"Versalles","27/12",20,6
+"San Nicolás","27/12",20,6
+"Villa Ortúzar","27/12",20,6
+"Monserrat","27/12",20,6
+"Villa Luro","27/12",20,6
+"Esteban Echeverría","27/12",20,6
+"Parque Chas","27/12",20,6
+"Florencio Varela","27/12",20,6
+"Boca","27/12",20,5
+"Villa Real","27/12",20,5
+"Floresta","27/12",20,5
+"Malvinas Argentinas","27/12",20,5
+"Paternal","27/12",20,5
+"Rosario","27/12",20,4
+"Nueva Pompeya","27/12",20,4
+"Villa Riachuelo","27/12",20,3
+"Ezeiza","27/12",20,3
+"Agronomía","27/12",20,3
+"Berazategui","27/12",20,3
+"Coghlan","27/12",20,3
+"Retiro","27/12",20,3
+"Moreno","27/12",20,2
+"Villa Soldati","27/12",20,2
+"Vélez Sársfield","27/12",20,2
+"Puerto Madero","27/12",20,2
+"José C. Paz","27/12",20,1
+"Palermo","27/12",21,72
+"Recoleta","27/12",21,43
+"Caballito","27/12",21,42
+"Almagro","27/12",21,39
+"Belgrano","27/12",21,32
+"Villa Urquiza","27/12",21,28
+"Villa Crespo","27/12",21,28
+"Balvanera","27/12",21,27
+"Lanús","27/12",21,22
+"Villa Devoto","27/12",21,20
+"Flores","27/12",21,20
+"La Matanza","27/12",21,19
+"Villa del Parque","27/12",21,18
+"Vicente López","27/12",21,18
+"San Isidro","27/12",21,18
+"Avellaneda","27/12",21,17
+"Parque Chacabuco","27/12",21,17
+"Morón","27/12",21,14
+"Colegiales","27/12",21,13
+"Quilmes","27/12",21,13
+"Almirante Brown","27/12",21,12
+"Barracas","27/12",21,12
+"Lomas de Zamora","27/12",21,12
+"San Cristóbal","27/12",21,10
+"Liniers","27/12",21,9
+"Núñez","27/12",21,9
+"Villa Gral. Mitre","27/12",21,8
+"General San Martín","27/12",21,8
+"Boca","27/12",21,8
+"Vélez Sársfield","27/12",21,8
+"Parque Patricios","27/12",21,8
+"Saavedra","27/12",21,8
+"Mataderos","27/12",21,8
+"Tres de Febrero","27/12",21,7
+"Tigre","27/12",21,7
+"Parque Avellaneda","27/12",21,7
+"Monte Castro","27/12",21,7
+"Villa Ortúzar","27/12",21,6
+"Monserrat","27/12",21,6
+"Boedo","27/12",21,6
+"Versalles","27/12",21,5
+"San Nicolás","27/12",21,5
+"Villa Lugano","27/12",21,5
+"Ituzaingó","27/12",21,5
+"Villa Luro","27/12",21,5
+"San Telmo","27/12",21,5
+"Hurlingham","27/12",21,4
+"Villa Pueyrredón","27/12",21,4
+"Constitución","27/12",21,4
+"Córdoba","27/12",21,4
+"Nueva Pompeya","27/12",21,4
+"San Fernando","27/12",21,4
+"La Plata","27/12",21,3
+"Floresta","27/12",21,3
+"Retiro","27/12",21,3
+"Villa Riachuelo","27/12",21,3
+"Parque Chas","27/12",21,3
+"Villa Santa Rita","27/12",21,3
+"Rosario","27/12",21,2
+"Chacarita","27/12",21,2
+"Paternal","27/12",21,2
+"Berazategui","27/12",21,2
+"San Miguel","27/12",21,2
+"Coghlan","27/12",21,2
+"José C. Paz","27/12",21,1
+"Malvinas Argentinas","27/12",21,1
+"Ezeiza","27/12",21,1
+"Puerto Madero","27/12",21,1
+"Villa Real","27/12",21,1
+"Moreno","27/12",21,1
+"Merlo","27/12",21,1
+"Esteban Echeverría","27/12",21,1
+"Palermo","27/12",22,67
+"Caballito","27/12",22,39
+"Recoleta","27/12",22,32
+"Belgrano","27/12",22,30
+"Villa Urquiza","27/12",22,27
+"Lanús","27/12",22,26
+"Almagro","27/12",22,25
+"Balvanera","27/12",22,21
+"Villa Crespo","27/12",22,19
+"Tres de Febrero","27/12",22,17
+"Vicente López","27/12",22,17
+"Colegiales","27/12",22,15
+"Núñez","27/12",22,15
+"San Isidro","27/12",22,14
+"Parque Chacabuco","27/12",22,14
+"Avellaneda","27/12",22,14
+"Flores","27/12",22,14
+"Lomas de Zamora","27/12",22,13
+"Quilmes","27/12",22,12
+"Saavedra","27/12",22,11
+"Villa Devoto","27/12",22,11
+"Villa Gral. Mitre","27/12",22,10
+"La Matanza","27/12",22,10
+"General San Martín","27/12",22,9
+"Villa del Parque","27/12",22,9
+"Villa Ortúzar","27/12",22,9
+"Morón","27/12",22,8
+"Villa Pueyrredón","27/12",22,8
+"Monserrat","27/12",22,8
+"Almirante Brown","27/12",22,8
+"Parque Patricios","27/12",22,7
+"Villa Lugano","27/12",22,7
+"Versalles","27/12",22,7
+"Vélez Sársfield","27/12",22,7
+"San Cristóbal","27/12",22,7
+"San Nicolás","27/12",22,6
+"Berazategui","27/12",22,6
+"Monte Castro","27/12",22,6
+"Boedo","27/12",22,6
+"Villa Santa Rita","27/12",22,6
+"Nueva Pompeya","27/12",22,6
+"Mataderos","27/12",22,6
+"Liniers","27/12",22,6
+"La Plata","27/12",22,5
+"Villa Luro","27/12",22,5
+"Coghlan","27/12",22,4
+"Parque Chas","27/12",22,4
+"Parque Avellaneda","27/12",22,4
+"Agronomía","27/12",22,4
+"San Fernando","27/12",22,4
+"Constitución","27/12",22,4
+"Esteban Echeverría","27/12",22,4
+"Retiro","27/12",22,4
+"San Miguel","27/12",22,4
+"Hurlingham","27/12",22,3
+"Barracas","27/12",22,3
+"Floresta","27/12",22,3
+"San Telmo","27/12",22,3
+"Tigre","27/12",22,3
+"Chacarita","27/12",22,3
+"Ezeiza","27/12",22,3
+"Boca","27/12",22,3
+"Rosario","27/12",22,2
+"Ituzaingó","27/12",22,2
+"Malvinas Argentinas","27/12",22,2
+"Paternal","27/12",22,2
+"Villa Real","27/12",22,1
+"Córdoba","27/12",22,1
+"Merlo","27/12",22,1
+"Villa Riachuelo","27/12",22,1
+"Villa Soldati","27/12",22,1
+"Palermo","27/12",23,66
+"Lanús","27/12",23,59
+"Caballito","27/12",23,57
+"Almagro","27/12",23,54
+"Avellaneda","27/12",23,47
+"Lomas de Zamora","27/12",23,44
+"Flores","27/12",23,43
+"Recoleta","27/12",23,43
+"Quilmes","27/12",23,41
+"La Matanza","27/12",23,41
+"Belgrano","27/12",23,41
+"Tres de Febrero","27/12",23,40
+"Villa Urquiza","27/12",23,39
+"Vicente López","27/12",23,38
+"Balvanera","27/12",23,31
+"Morón","27/12",23,31
+"Rosario","27/12",23,28
+"San Cristóbal","27/12",23,28
+"San Isidro","27/12",23,28
+"General San Martín","27/12",23,28
+"Almirante Brown","27/12",23,27
+"Villa Crespo","27/12",23,24
+"Villa del Parque","27/12",23,23
+"Núñez","27/12",23,20
+"Saavedra","27/12",23,20
+"Villa Gral. Mitre","27/12",23,19
+"Villa Devoto","27/12",23,18
+"Parque Chacabuco","27/12",23,17
+"Merlo","27/12",23,16
+"La Plata","27/12",23,16
+"Villa Lugano","27/12",23,16
+"Villa Pueyrredón","27/12",23,15
+"Vélez Sársfield","27/12",23,15
+"Tigre","27/12",23,15
+"Mataderos","27/12",23,14
+"Barracas","27/12",23,13
+"Villa Luro","27/12",23,13
+"Colegiales","27/12",23,12
+"San Fernando","27/12",23,12
+"Esteban Echeverría","27/12",23,12
+"Constitución","27/12",23,11
+"Monserrat","27/12",23,11
+"Berazategui","27/12",23,11
+"Parque Avellaneda","27/12",23,11
+"San Nicolás","27/12",23,11
+"Floresta","27/12",23,11
+"Ituzaingó","27/12",23,10
+"Parque Patricios","27/12",23,10
+"San Telmo","27/12",23,9
+"Hurlingham","27/12",23,8
+"Chacarita","27/12",23,8
+"Villa Santa Rita","27/12",23,8
+"Ezeiza","27/12",23,8
+"Boedo","27/12",23,7
+"Boca","27/12",23,7
+"Córdoba","27/12",23,7
+"Monte Castro","27/12",23,7
+"San Miguel","27/12",23,7
+"Malvinas Argentinas","27/12",23,6
+"Florencio Varela","27/12",23,6
+"Liniers","27/12",23,6
+"Coghlan","27/12",23,6
+"Villa Real","27/12",23,5
+"Villa Soldati","27/12",23,5
+"Retiro","27/12",23,5
+"Paternal","27/12",23,5
+"Puerto Madero","27/12",23,4
+"Nueva Pompeya","27/12",23,4
+"Villa Ortúzar","27/12",23,3
+"Moreno","27/12",23,3
+"Parque Chas","27/12",23,3
+"Agronomía","27/12",23,2
+"Mendoza","27/12",23,2
+"Versalles","27/12",23,2
+"Villa Riachuelo","27/12",23,1
+"Palermo","28/12",0,59
+"Caballito","28/12",0,42
+"Recoleta","28/12",0,35
+"Belgrano","28/12",0,33
+"Almagro","28/12",0,27
+"Flores","28/12",0,27
+"Lanús","28/12",0,27
+"Avellaneda","28/12",0,27
+"Lomas de Zamora","28/12",0,25
+"Vicente López","28/12",0,24
+"La Matanza","28/12",0,24
+"Tres de Febrero","28/12",0,23
+"Villa Urquiza","28/12",0,22
+"Villa Crespo","28/12",0,21
+"Balvanera","28/12",0,19
+"San Isidro","28/12",0,18
+"Morón","28/12",0,16
+"San Cristóbal","28/12",0,15
+"Villa Devoto","28/12",0,15
+"Villa del Parque","28/12",0,15
+"Almirante Brown","28/12",0,15
+"Quilmes","28/12",0,14
+"Núñez","28/12",0,13
+"Parque Chacabuco","28/12",0,13
+"Parque Avellaneda","28/12",0,13
+"General San Martín","28/12",0,13
+"Mataderos","28/12",0,12
+"Liniers","28/12",0,11
+"Moreno","28/12",0,11
+"Parque Chas","28/12",0,9
+"Floresta","28/12",0,9
+"Merlo","28/12",0,8
+"Boedo","28/12",0,8
+"Tigre","28/12",0,8
+"La Plata","28/12",0,7
+"Villa Gral. Mitre","28/12",0,7
+"Vélez Sársfield","28/12",0,7
+"Colegiales","28/12",0,7
+"Rosario","28/12",0,7
+"Monte Castro","28/12",0,7
+"Villa Ortúzar","28/12",0,6
+"Saavedra","28/12",0,6
+"Esteban Echeverría","28/12",0,6
+"Villa Lugano","28/12",0,6
+"Monserrat","28/12",0,6
+"Nueva Pompeya","28/12",0,5
+"San Nicolás","28/12",0,5
+"Villa Pueyrredón","28/12",0,5
+"Córdoba","28/12",0,5
+"Boca","28/12",0,5
+"Berazategui","28/12",0,5
+"Villa Santa Rita","28/12",0,5
+"Retiro","28/12",0,5
+"Coghlan","28/12",0,5
+"Villa Luro","28/12",0,4
+"Constitución","28/12",0,4
+"Chacarita","28/12",0,4
+"Parque Patricios","28/12",0,4
+"San Fernando","28/12",0,4
+"Ituzaingó","28/12",0,4
+"Barracas","28/12",0,3
+"Versalles","28/12",0,3
+"Malvinas Argentinas","28/12",0,3
+"Florencio Varela","28/12",0,3
+"Paternal","28/12",0,3
+"San Telmo","28/12",0,2
+"Hurlingham","28/12",0,2
+"José C. Paz","28/12",0,1
+"Puerto Madero","28/12",0,1
+"San Miguel","28/12",0,1
+"Villa Real","28/12",0,1
+"Agronomía","28/12",0,1
+"Villa Riachuelo","28/12",0,1
+"Caballito","28/12",1,28
+"Recoleta","28/12",1,25
+"Palermo","28/12",1,23
+"Almagro","28/12",1,20
+"Avellaneda","28/12",1,16
+"Villa Urquiza","28/12",1,14
+"Morón","28/12",1,14
+"Flores","28/12",1,13
+"Villa Crespo","28/12",1,13
+"Quilmes","28/12",1,12
+"Lomas de Zamora","28/12",1,11
+"San Isidro","28/12",1,11
+"Lanús","28/12",1,10
+"Belgrano","28/12",1,10
+"Balvanera","28/12",1,10
+"Almirante Brown","28/12",1,10
+"Villa Devoto","28/12",1,9
+"Tres de Febrero","28/12",1,9
+"La Matanza","28/12",1,9
+"General San Martín","28/12",1,9
+"Vicente López","28/12",1,8
+"Núñez","28/12",1,8
+"Barracas","28/12",1,8
+"San Nicolás","28/12",1,7
+"Villa del Parque","28/12",1,6
+"Villa Gral. Mitre","28/12",1,6
+"Villa Santa Rita","28/12",1,6
+"Parque Chacabuco","28/12",1,6
+"San Cristóbal","28/12",1,6
+"Saavedra","28/12",1,6
+"La Plata","28/12",1,5
+"Parque Avellaneda","28/12",1,5
+"San Fernando","28/12",1,4
+"Boedo","28/12",1,4
+"Ituzaingó","28/12",1,4
+"Villa Ortúzar","28/12",1,4
+"Paternal","28/12",1,4
+"Floresta","28/12",1,4
+"Liniers","28/12",1,3
+"José C. Paz","28/12",1,3
+"Monserrat","28/12",1,3
+"Monte Castro","28/12",1,3
+"Chacarita","28/12",1,3
+"Rosario","28/12",1,3
+"Villa Pueyrredón","28/12",1,3
+"Hurlingham","28/12",1,2
+"Ezeiza","28/12",1,2
+"Coghlan","28/12",1,2
+"Esteban Echeverría","28/12",1,2
+"Merlo","28/12",1,2
+"Boca","28/12",1,2
+"Villa Real","28/12",1,2
+"Constitución","28/12",1,2
+"Villa Lugano","28/12",1,2
+"Villa Luro","28/12",1,2
+"Florencio Varela","28/12",1,1
+"Mendoza","28/12",1,1
+"Villa Soldati","28/12",1,1
+"Moreno","28/12",1,1
+"Colegiales","28/12",1,1
+"Versalles","28/12",1,1
+"Córdoba","28/12",1,1
+"Mataderos","28/12",1,1
+"Berazategui","28/12",1,1
+"Parque Patricios","28/12",1,1
+"Retiro","28/12",1,1
+"Nueva Pompeya","28/12",1,1
+"Tigre","28/12",1,1
+"Parque Chas","28/12",1,1
+"Almagro","28/12",2,13
+"Caballito","28/12",2,12
+"Belgrano","28/12",2,10
+"Recoleta","28/12",2,10
+"Palermo","28/12",2,9
+"Villa Crespo","28/12",2,9
+"Quilmes","28/12",2,8
+"Vicente López","28/12",2,8
+"Tres de Febrero","28/12",2,7
+"Avellaneda","28/12",2,7
+"La Matanza","28/12",2,7
+"San Isidro","28/12",2,6
+"Villa del Parque","28/12",2,6
+"San Cristóbal","28/12",2,6
+"Balvanera","28/12",2,6
+"Colegiales","28/12",2,5
+"Villa Devoto","28/12",2,5
+"Saavedra","28/12",2,5
+"Villa Santa Rita","28/12",2,5
+"Almirante Brown","28/12",2,5
+"Flores","28/12",2,4
+"Monte Castro","28/12",2,4
+"Berazategui","28/12",2,4
+"Parque Chacabuco","28/12",2,4
+"General San Martín","28/12",2,4
+"Boedo","28/12",2,4
+"Lanús","28/12",2,3
+"Lomas de Zamora","28/12",2,3
+"Mataderos","28/12",2,3
+"La Plata","28/12",2,3
+"Tigre","28/12",2,3
+"Ituzaingó","28/12",2,2
+"San Fernando","28/12",2,2
+"Nueva Pompeya","28/12",2,2
+"Núñez","28/12",2,2
+"Villa Urquiza","28/12",2,2
+"Vélez Sársfield","28/12",2,2
+"Parque Avellaneda","28/12",2,2
+"Moreno","28/12",2,2
+"Paternal","28/12",2,2
+"San Telmo","28/12",2,2
+"Constitución","28/12",2,2
+"Boca","28/12",2,2
+"San Nicolás","28/12",2,2
+"Villa Pueyrredón","28/12",2,1
+"Puerto Madero","28/12",2,1
+"Malvinas Argentinas","28/12",2,1
+"Esteban Echeverría","28/12",2,1
+"San Miguel","28/12",2,1
+"Merlo","28/12",2,1
+"Mendoza","28/12",2,1
+"Morón","28/12",2,1
+"Villa Soldati","28/12",2,1
+"Coghlan","28/12",2,1
+"Retiro","28/12",2,1
+"Parque Chas","28/12",2,1
+"Versalles","28/12",2,1
+"Hurlingham","28/12",2,1
+"Villa Luro","28/12",2,1
+"Villa Gral. Mitre","28/12",2,1
+"Floresta","28/12",2,1
+"Monserrat","28/12",2,1
+"Barracas","28/12",2,1
+"Palermo","28/12",3,14
+"Caballito","28/12",3,9
+"Almagro","28/12",3,8
+"Balvanera","28/12",3,7
+"Flores","28/12",3,5
+"Recoleta","28/12",3,5
+"Tres de Febrero","28/12",3,4
+"Vicente López","28/12",3,4
+"Belgrano","28/12",3,4
+"Avellaneda","28/12",3,4
+"La Matanza","28/12",3,4
+"Villa Urquiza","28/12",3,4
+"Monte Castro","28/12",3,3
+"Villa del Parque","28/12",3,3
+"Nueva Pompeya","28/12",3,3
+"Tigre","28/12",3,3
+"Lomas de Zamora","28/12",3,3
+"Chacarita","28/12",3,2
+"San Nicolás","28/12",3,2
+"Malvinas Argentinas","28/12",3,2
+"Morón","28/12",3,2
+"Lanús","28/12",3,2
+"San Cristóbal","28/12",3,2
+"General San Martín","28/12",3,2
+"Parque Avellaneda","28/12",3,2
+"San Fernando","28/12",3,2
+"Parque Patricios","28/12",3,2
+"Monserrat","28/12",3,2
+"Retiro","28/12",3,2
+"Parque Chacabuco","28/12",3,2
+"Villa Devoto","28/12",3,2
+"San Miguel","28/12",3,1
+"Colegiales","28/12",3,1
+"Berazategui","28/12",3,1
+"Villa Luro","28/12",3,1
+"Esteban Echeverría","28/12",3,1
+"Almirante Brown","28/12",3,1
+"Vélez Sársfield","28/12",3,1
+"Villa Crespo","28/12",3,1
+"Floresta","28/12",3,1
+"San Telmo","28/12",3,1
+"Villa Lugano","28/12",3,1
+"Mataderos","28/12",3,1
+"Parque Chas","28/12",3,1
+"Villa Pueyrredón","28/12",3,1
+"Constitución","28/12",3,1
+"Núñez","28/12",3,1
+"Saavedra","28/12",3,1
+"Villa Santa Rita","28/12",3,1
+"Villa Real","28/12",3,1
+"Hurlingham","28/12",3,1
+"La Plata","28/12",3,1
+"Boedo","28/12",3,1
+"Liniers","28/12",3,1
+"La Matanza","28/12",4,6
+"Lanús","28/12",4,5
+"San Fernando","28/12",4,3
+"Monserrat","28/12",4,3
+"Almagro","28/12",4,3
+"Palermo","28/12",4,3
+"Morón","28/12",4,3
+"Villa Gral. Mitre","28/12",4,2
+"Recoleta","28/12",4,2
+"Tres de Febrero","28/12",4,2
+"San Miguel","28/12",4,2
+"Belgrano","28/12",4,2
+"Balvanera","28/12",4,2
+"La Plata","28/12",4,2
+"Tigre","28/12",4,2
+"Córdoba","28/12",4,2
+"Avellaneda","28/12",4,2
+"San Nicolás","28/12",4,1
+"Ituzaingó","28/12",4,1
+"Floresta","28/12",4,1
+"General San Martín","28/12",4,1
+"Colegiales","28/12",4,1
+"Liniers","28/12",4,1
+"Coghlan","28/12",4,1
+"Flores","28/12",4,1
+"Monte Castro","28/12",4,1
+"Chacarita","28/12",4,1
+"Lomas de Zamora","28/12",4,1
+"San Isidro","28/12",4,1
+"Quilmes","28/12",4,1
+"Caballito","28/12",4,1
+"José C. Paz","28/12",4,1
+"Constitución","28/12",4,1
+"Villa Devoto","28/12",4,1
+"Barracas","28/12",4,1
+"Parque Patricios","28/12",4,1
+"Villa Crespo","28/12",4,1
+"Berazategui","28/12",4,1
+"Villa Riachuelo","28/12",4,1
+"Parque Avellaneda","28/12",4,1
+"Palermo","28/12",5,5
+"San Fernando","28/12",5,4
+"Almirante Brown","28/12",5,3
+"San Isidro","28/12",5,2
+"Caballito","28/12",5,2
+"Balvanera","28/12",5,2
+"Parque Avellaneda","28/12",5,2
+"Barracas","28/12",5,1
+"Quilmes","28/12",5,1
+"Moreno","28/12",5,1
+"Villa Soldati","28/12",5,1
+"General San Martín","28/12",5,1
+"Lomas de Zamora","28/12",5,1
+"Lanús","28/12",5,1
+"Coghlan","28/12",5,1
+"Florencio Varela","28/12",5,1
+"Hurlingham","28/12",5,1
+"Recoleta","28/12",5,1
+"Chacarita","28/12",5,1
+"Villa Lugano","28/12",5,1
+"Villa Urquiza","28/12",5,1
+"Parque Chas","28/12",5,1
+"San Cristóbal","28/12",5,1
+"San Telmo","28/12",5,1
+"Avellaneda","28/12",5,1
+"Tres de Febrero","28/12",5,1
+"Flores","28/12",5,1
+"Nueva Pompeya","28/12",5,1
+"Ituzaingó","28/12",5,1
+"Almagro","28/12",5,1
+"Almagro","28/12",6,6
+"Avellaneda","28/12",6,5
+"Palermo","28/12",6,3
+"Lomas de Zamora","28/12",6,3
+"Ituzaingó","28/12",6,2
+"Hurlingham","28/12",6,2
+"Tres de Febrero","28/12",6,2
+"La Matanza","28/12",6,2
+"Lanús","28/12",6,2
+"Parque Avellaneda","28/12",6,2
+"San Cristóbal","28/12",6,2
+"Flores","28/12",6,2
+"La Plata","28/12",6,2
+"Caballito","28/12",6,2
+"Nueva Pompeya","28/12",6,2
+"Núñez","28/12",6,1
+"Parque Patricios","28/12",6,1
+"Vélez Sársfield","28/12",6,1
+"Belgrano","28/12",6,1
+"Recoleta","28/12",6,1
+"Florencio Varela","28/12",6,1
+"Villa Devoto","28/12",6,1
+"General San Martín","28/12",6,1
+"Villa Crespo","28/12",6,1
+"Moreno","28/12",6,1
+"Villa Real","28/12",6,1
+"Barracas","28/12",6,1
+"Malvinas Argentinas","28/12",6,1
+"Liniers","28/12",6,1
+"Versalles","28/12",6,1
+"Córdoba","28/12",6,1
+"San Nicolás","28/12",6,1
+"Parque Chacabuco","28/12",6,1
+"Monserrat","28/12",6,1
+"Quilmes","28/12",6,1
+"Berazategui","28/12",6,1
+"Almagro","28/12",7,7
+"Flores","28/12",7,6
+"Caballito","28/12",7,4
+"Villa Crespo","28/12",7,4
+"Balvanera","28/12",7,4
+"Tres de Febrero","28/12",7,4
+"Villa Urquiza","28/12",7,3
+"Palermo","28/12",7,3
+"San Isidro","28/12",7,3
+"San Fernando","28/12",7,3
+"Parque Avellaneda","28/12",7,3
+"Villa del Parque","28/12",7,2
+"Villa Devoto","28/12",7,2
+"Monte Castro","28/12",7,2
+"Parque Chas","28/12",7,2
+"Versalles","28/12",7,2
+"Vélez Sársfield","28/12",7,2
+"Belgrano","28/12",7,2
+"Vicente López","28/12",7,2
+"La Matanza","28/12",7,2
+"Villa Soldati","28/12",7,2
+"Lomas de Zamora","28/12",7,1
+"Ituzaingó","28/12",7,1
+"Ezeiza","28/12",7,1
+"Floresta","28/12",7,1
+"Villa Santa Rita","28/12",7,1
+"Villa Real","28/12",7,1
+"Avellaneda","28/12",7,1
+"Moreno","28/12",7,1
+"Florencio Varela","28/12",7,1
+"Almirante Brown","28/12",7,1
+"Recoleta","28/12",7,1
+"Chacarita","28/12",7,1
+"San Cristóbal","28/12",7,1
+"Villa Riachuelo","28/12",7,1
+"Morón","28/12",7,1
+"Lanús","28/12",7,1
+"Hurlingham","28/12",7,1
+"Villa Gral. Mitre","28/12",7,1
+"General San Martín","28/12",7,1
+"Nueva Pompeya","28/12",7,1
+"Monserrat","28/12",7,1
+"Rosario","28/12",7,1
+"Paternal","28/12",7,1
+"Caballito","28/12",8,12
+"Lanús","28/12",8,8
+"Palermo","28/12",8,6
+"Almagro","28/12",8,6
+"Lomas de Zamora","28/12",8,5
+"Tres de Febrero","28/12",8,5
+"General San Martín","28/12",8,5
+"Recoleta","28/12",8,5
+"San Isidro","28/12",8,4
+"Quilmes","28/12",8,4
+"Floresta","28/12",8,4
+"Boedo","28/12",8,4
+"San Cristóbal","28/12",8,4
+"Villa Urquiza","28/12",8,3
+"San Fernando","28/12",8,3
+"La Matanza","28/12",8,3
+"Villa Crespo","28/12",8,3
+"Monte Castro","28/12",8,3
+"Almirante Brown","28/12",8,2
+"San Telmo","28/12",8,2
+"San Miguel","28/12",8,2
+"Flores","28/12",8,2
+"Moreno","28/12",8,2
+"Balvanera","28/12",8,2
+"Vicente López","28/12",8,2
+"Barracas","28/12",8,2
+"Parque Avellaneda","28/12",8,2
+"Belgrano","28/12",8,2
+"Núñez","28/12",8,2
+"Merlo","28/12",8,1
+"Morón","28/12",8,1
+"Mataderos","28/12",8,1
+"Retiro","28/12",8,1
+"Esteban Echeverría","28/12",8,1
+"Parque Patricios","28/12",8,1
+"Constitución","28/12",8,1
+"Avellaneda","28/12",8,1
+"Villa Devoto","28/12",8,1
+"San Nicolás","28/12",8,1
+"Villa Lugano","28/12",8,1
+"Villa Riachuelo","28/12",8,1
+"Villa del Parque","28/12",8,1
+"Chacarita","28/12",8,1
+"Parque Chas","28/12",8,1
+"Belgrano","28/12",9,12
+"Caballito","28/12",9,12
+"Flores","28/12",9,12
+"Almagro","28/12",9,9
+"Palermo","28/12",9,8
+"Vicente López","28/12",9,8
+"Lomas de Zamora","28/12",9,8
+"Avellaneda","28/12",9,7
+"La Matanza","28/12",9,7
+"San Isidro","28/12",9,6
+"Quilmes","28/12",9,6
+"Villa Devoto","28/12",9,6
+"San Fernando","28/12",9,6
+"Villa Urquiza","28/12",9,5
+"Recoleta","28/12",9,5
+"Balvanera","28/12",9,5
+"Villa del Parque","28/12",9,5
+"Merlo","28/12",9,5
+"Constitución","28/12",9,5
+"Monte Castro","28/12",9,4
+"Villa Crespo","28/12",9,4
+"Barracas","28/12",9,4
+"Lanús","28/12",9,4
+"Boca","28/12",9,3
+"Hurlingham","28/12",9,3
+"Villa Lugano","28/12",9,3
+"Nueva Pompeya","28/12",9,3
+"General San Martín","28/12",9,3
+"Tres de Febrero","28/12",9,3
+"Saavedra","28/12",9,3
+"Versalles","28/12",9,3
+"Villa Santa Rita","28/12",9,2
+"Floresta","28/12",9,2
+"Villa Real","28/12",9,2
+"Tigre","28/12",9,2
+"Villa Pueyrredón","28/12",9,2
+"Núñez","28/12",9,2
+"Paternal","28/12",9,2
+"Colegiales","28/12",9,2
+"Almirante Brown","28/12",9,2
+"Villa Ortúzar","28/12",9,2
+"Esteban Echeverría","28/12",9,1
+"Villa Luro","28/12",9,1
+"Parque Patricios","28/12",9,1
+"San Miguel","28/12",9,1
+"Vélez Sársfield","28/12",9,1
+"Puerto Madero","28/12",9,1
+"Ezeiza","28/12",9,1
+"Parque Chacabuco","28/12",9,1
+"Villa Soldati","28/12",9,1
+"Boedo","28/12",9,1
+"San Cristóbal","28/12",9,1
+"Parque Avellaneda","28/12",9,1
+"Morón","28/12",9,1
+"La Plata","28/12",9,1
+"Mendoza","28/12",9,1
+"Villa Riachuelo","28/12",9,1
+"Agronomía","28/12",9,1
+"Coghlan","28/12",9,1
+"Mataderos","28/12",9,1
+"Malvinas Argentinas","28/12",9,1
+"La Matanza","28/12",10,23
+"Palermo","28/12",10,16
+"Flores","28/12",10,12
+"Villa del Parque","28/12",10,11
+"Almagro","28/12",10,11
+"Belgrano","28/12",10,11
+"Vicente López","28/12",10,10
+"Avellaneda","28/12",10,9
+"Villa Urquiza","28/12",10,8
+"Villa Crespo","28/12",10,8
+"Recoleta","28/12",10,8
+"Villa Lugano","28/12",10,7
+"Lomas de Zamora","28/12",10,6
+"Lanús","28/12",10,6
+"Barracas","28/12",10,6
+"Parque Chacabuco","28/12",10,6
+"Caballito","28/12",10,6
+"Villa Devoto","28/12",10,5
+"San Fernando","28/12",10,5
+"Floresta","28/12",10,5
+"Hurlingham","28/12",10,4
+"Nueva Pompeya","28/12",10,4
+"Tres de Febrero","28/12",10,4
+"San Isidro","28/12",10,4
+"Mataderos","28/12",10,4
+"General San Martín","28/12",10,3
+"Villa Pueyrredón","28/12",10,3
+"Morón","28/12",10,3
+"Villa Santa Rita","28/12",10,3
+"Parque Patricios","28/12",10,3
+"Balvanera","28/12",10,3
+"Constitución","28/12",10,3
+"Almirante Brown","28/12",10,3
+"Liniers","28/12",10,3
+"Tigre","28/12",10,3
+"Versalles","28/12",10,3
+"Saavedra","28/12",10,2
+"Chacarita","28/12",10,2
+"Núñez","28/12",10,2
+"Villa Gral. Mitre","28/12",10,2
+"Moreno","28/12",10,2
+"Villa Ortúzar","28/12",10,2
+"Villa Luro","28/12",10,2
+"Parque Avellaneda","28/12",10,2
+"Merlo","28/12",10,2
+"Paternal","28/12",10,2
+"José C. Paz","28/12",10,1
+"La Plata","28/12",10,1
+"San Nicolás","28/12",10,1
+"Colegiales","28/12",10,1
+"Ituzaingó","28/12",10,1
+"San Cristóbal","28/12",10,1
+"Quilmes","28/12",10,1
+"Retiro","28/12",10,1
+"Boca","28/12",10,1
+"Ezeiza","28/12",10,1
+"Florencio Varela","28/12",10,1
+"Monte Castro","28/12",10,1
+"Malvinas Argentinas","28/12",10,1
+"Monserrat","28/12",10,1
+"Villa Real","28/12",10,1
+"Agronomía","28/12",10,1
+"San Miguel","28/12",10,1
+"Boedo","28/12",10,1
+"Rosario","28/12",10,1
+"Caballito","28/12",11,18
+"Villa Urquiza","28/12",11,16
+"Lanús","28/12",11,14
+"Villa Crespo","28/12",11,13
+"Núñez","28/12",11,13
+"Balvanera","28/12",11,12
+"La Matanza","28/12",11,11
+"Almagro","28/12",11,11
+"Palermo","28/12",11,10
+"Flores","28/12",11,10
+"Vicente López","28/12",11,9
+"Recoleta","28/12",11,9
+"Belgrano","28/12",11,9
+"Saavedra","28/12",11,9
+"Parque Chacabuco","28/12",11,9
+"Parque Avellaneda","28/12",11,7
+"Tres de Febrero","28/12",11,7
+"Lomas de Zamora","28/12",11,7
+"San Isidro","28/12",11,6
+"Almirante Brown","28/12",11,6
+"Villa del Parque","28/12",11,6
+"San Cristóbal","28/12",11,6
+"Morón","28/12",11,6
+"Villa Pueyrredón","28/12",11,5
+"Monserrat","28/12",11,5
+"Avellaneda","28/12",11,5
+"Quilmes","28/12",11,5
+"Villa Santa Rita","28/12",11,5
+"Malvinas Argentinas","28/12",11,4
+"Barracas","28/12",11,4
+"Colegiales","28/12",11,4
+"Villa Lugano","28/12",11,4
+"Villa Ortúzar","28/12",11,4
+"Boedo","28/12",11,4
+"Paternal","28/12",11,3
+"Berazategui","28/12",11,3
+"Villa Devoto","28/12",11,3
+"Mataderos","28/12",11,3
+"Parque Chas","28/12",11,3
+"Nueva Pompeya","28/12",11,3
+"San Telmo","28/12",11,3
+"General San Martín","28/12",11,3
+"Rosario","28/12",11,2
+"Parque Patricios","28/12",11,2
+"Monte Castro","28/12",11,2
+"Liniers","28/12",11,2
+"Moreno","28/12",11,2
+"San Miguel","28/12",11,2
+"Chacarita","28/12",11,2
+"Constitución","28/12",11,2
+"Floresta","28/12",11,2
+"San Fernando","28/12",11,2
+"Versalles","28/12",11,2
+"Villa Gral. Mitre","28/12",11,2
+"San Nicolás","28/12",11,2
+"Boca","28/12",11,2
+"Hurlingham","28/12",11,2
+"Merlo","28/12",11,2
+"Villa Luro","28/12",11,2
+"Ituzaingó","28/12",11,1
+"Vélez Sársfield","28/12",11,1
+"Ezeiza","28/12",11,1
+"Coghlan","28/12",11,1
+"Villa Real","28/12",11,1
+"La Plata","28/12",11,1
+"Retiro","28/12",11,1
+"Tigre","28/12",11,1
+"Esteban Echeverría","28/12",11,1
+"Palermo","28/12",12,18
+"Caballito","28/12",12,16
+"Flores","28/12",12,15
+"Belgrano","28/12",12,14
+"Villa Crespo","28/12",12,14
+"Almagro","28/12",12,12
+"Avellaneda","28/12",12,11
+"Villa Urquiza","28/12",12,10
+"Recoleta","28/12",12,10
+"La Matanza","28/12",12,9
+"Parque Chacabuco","28/12",12,9
+"Lanús","28/12",12,9
+"Balvanera","28/12",12,8
+"Quilmes","28/12",12,8
+"Villa del Parque","28/12",12,8
+"Almirante Brown","28/12",12,7
+"Villa Santa Rita","28/12",12,7
+"Morón","28/12",12,6
+"San Isidro","28/12",12,6
+"Barracas","28/12",12,6
+"Villa Devoto","28/12",12,6
+"Mataderos","28/12",12,6
+"Núñez","28/12",12,6
+"Tres de Febrero","28/12",12,5
+"Vicente López","28/12",12,5
+"Liniers","28/12",12,5
+"Coghlan","28/12",12,5
+"Monte Castro","28/12",12,5
+"Malvinas Argentinas","28/12",12,5
+"Lomas de Zamora","28/12",12,5
+"Boedo","28/12",12,5
+"San Fernando","28/12",12,4
+"Parque Patricios","28/12",12,4
+"San Nicolás","28/12",12,4
+"Parque Avellaneda","28/12",12,3
+"Nueva Pompeya","28/12",12,3
+"Monserrat","28/12",12,3
+"Villa Lugano","28/12",12,3
+"San Cristóbal","28/12",12,3
+"Colegiales","28/12",12,3
+"Córdoba","28/12",12,3
+"San Miguel","28/12",12,3
+"Villa Pueyrredón","28/12",12,3
+"Villa Gral. Mitre","28/12",12,3
+"Tigre","28/12",12,3
+"Rosario","28/12",12,2
+"Hurlingham","28/12",12,2
+"Vélez Sársfield","28/12",12,2
+"Berazategui","28/12",12,2
+"Florencio Varela","28/12",12,2
+"Saavedra","28/12",12,2
+"Villa Real","28/12",12,2
+"Villa Ortúzar","28/12",12,2
+"General San Martín","28/12",12,2
+"Merlo","28/12",12,2
+"Villa Riachuelo","28/12",12,1
+"Constitución","28/12",12,1
+"Paternal","28/12",12,1
+"Esteban Echeverría","28/12",12,1
+"Ezeiza","28/12",12,1
+"La Plata","28/12",12,1
+"Moreno","28/12",12,1
+"Villa Luro","28/12",12,1
+"Versalles","28/12",12,1
+"Caballito","28/12",13,49
+"Palermo","28/12",13,26
+"Belgrano","28/12",13,25
+"Almagro","28/12",13,21
+"Flores","28/12",13,16
+"Vicente López","28/12",13,14
+"Recoleta","28/12",13,14
+"La Matanza","28/12",13,14
+"Lanús","28/12",13,13
+"Villa Crespo","28/12",13,12
+"Núñez","28/12",13,11
+"San Isidro","28/12",13,10
+"Berazategui","28/12",13,10
+"Villa del Parque","28/12",13,10
+"Liniers","28/12",13,9
+"Balvanera","28/12",13,9
+"Villa Santa Rita","28/12",13,9
+"Parque Chacabuco","28/12",13,9
+"Avellaneda","28/12",13,8
+"Monte Castro","28/12",13,8
+"Villa Devoto","28/12",13,8
+"Villa Urquiza","28/12",13,7
+"San Cristóbal","28/12",13,7
+"Tigre","28/12",13,7
+"Constitución","28/12",13,6
+"La Plata","28/12",13,6
+"Colegiales","28/12",13,6
+"Parque Avellaneda","28/12",13,6
+"Quilmes","28/12",13,6
+"Boedo","28/12",13,6
+"Versalles","28/12",13,6
+"Almirante Brown","28/12",13,5
+"Villa Ortúzar","28/12",13,5
+"San Fernando","28/12",13,5
+"Lomas de Zamora","28/12",13,5
+"Ituzaingó","28/12",13,5
+"Villa Pueyrredón","28/12",13,4
+"Mataderos","28/12",13,4
+"Parque Patricios","28/12",13,4
+"Floresta","28/12",13,4
+"Morón","28/12",13,4
+"Barracas","28/12",13,3
+"Villa Luro","28/12",13,3
+"Coghlan","28/12",13,3
+"Saavedra","28/12",13,3
+"Parque Chas","28/12",13,3
+"General San Martín","28/12",13,3
+"Villa Real","28/12",13,3
+"Paternal","28/12",13,2
+"Retiro","28/12",13,2
+"San Telmo","28/12",13,2
+"Nueva Pompeya","28/12",13,2
+"Ezeiza","28/12",13,2
+"Villa Gral. Mitre","28/12",13,2
+"Moreno","28/12",13,2
+"Tres de Febrero","28/12",13,2
+"Chacarita","28/12",13,2
+"Monserrat","28/12",13,2
+"Puerto Madero","28/12",13,1
+"San Nicolás","28/12",13,1
+"Rosario","28/12",13,1
+"Esteban Echeverría","28/12",13,1
+"Malvinas Argentinas","28/12",13,1
+"José C. Paz","28/12",13,1
+"Vélez Sársfield","28/12",13,1
+"Hurlingham","28/12",13,1
+"San Miguel","28/12",13,1
+"Villa Lugano","28/12",13,1
+"Agronomía","28/12",13,1
+"Palermo","28/12",14,40
+"Caballito","28/12",14,39
+"Recoleta","28/12",14,29
+"Almagro","28/12",14,26
+"Flores","28/12",14,26
+"Belgrano","28/12",14,24
+"Lanús","28/12",14,17
+"Villa Crespo","28/12",14,16
+"Vicente López","28/12",14,15
+"San Isidro","28/12",14,14
+"Lomas de Zamora","28/12",14,14
+"La Matanza","28/12",14,13
+"Saavedra","28/12",14,13
+"Balvanera","28/12",14,12
+"Villa Urquiza","28/12",14,12
+"Morón","28/12",14,12
+"Villa del Parque","28/12",14,11
+"Villa Santa Rita","28/12",14,11
+"Liniers","28/12",14,11
+"Avellaneda","28/12",14,10
+"Colegiales","28/12",14,10
+"Quilmes","28/12",14,10
+"Villa Devoto","28/12",14,10
+"Monte Castro","28/12",14,9
+"Núñez","28/12",14,9
+"Tres de Febrero","28/12",14,9
+"Villa Gral. Mitre","28/12",14,9
+"Almirante Brown","28/12",14,8
+"San Fernando","28/12",14,7
+"San Cristóbal","28/12",14,7
+"Villa Lugano","28/12",14,6
+"Coghlan","28/12",14,5
+"Villa Ortúzar","28/12",14,5
+"Mataderos","28/12",14,5
+"Monserrat","28/12",14,5
+"Chacarita","28/12",14,5
+"San Nicolás","28/12",14,5
+"Esteban Echeverría","28/12",14,5
+"La Plata","28/12",14,5
+"Parque Chacabuco","28/12",14,5
+"Barracas","28/12",14,5
+"Parque Avellaneda","28/12",14,4
+"Boedo","28/12",14,4
+"Malvinas Argentinas","28/12",14,4
+"San Telmo","28/12",14,4
+"Tigre","28/12",14,4
+"Villa Luro","28/12",14,4
+"Retiro","28/12",14,3
+"San Miguel","28/12",14,3
+"General San Martín","28/12",14,3
+"Parque Patricios","28/12",14,3
+"Rosario","28/12",14,3
+"Hurlingham","28/12",14,3
+"Boca","28/12",14,3
+"Merlo","28/12",14,2
+"Paternal","28/12",14,2
+"Constitución","28/12",14,2
+"Vélez Sársfield","28/12",14,2
+"Villa Riachuelo","28/12",14,2
+"Nueva Pompeya","28/12",14,2
+"Berazategui","28/12",14,2
+"Versalles","28/12",14,2
+"Ezeiza","28/12",14,2
+"Moreno","28/12",14,1
+"Florencio Varela","28/12",14,1
+"Parque Chas","28/12",14,1
+"Floresta","28/12",14,1
+"Ituzaingó","28/12",14,1
+"Puerto Madero","28/12",14,1
+"Córdoba","28/12",14,1
+"Palermo","28/12",15,37
+"Almagro","28/12",15,31
+"Caballito","28/12",15,28
+"Recoleta","28/12",15,27
+"Belgrano","28/12",15,22
+"Vicente López","28/12",15,20
+"Villa Crespo","28/12",15,18
+"San Isidro","28/12",15,16
+"Balvanera","28/12",15,16
+"Flores","28/12",15,15
+"Villa Urquiza","28/12",15,15
+"Lanús","28/12",15,14
+"Villa del Parque","28/12",15,13
+"La Matanza","28/12",15,13
+"Colegiales","28/12",15,12
+"San Cristóbal","28/12",15,11
+"Núñez","28/12",15,11
+"Parque Chacabuco","28/12",15,10
+"Avellaneda","28/12",15,9
+"Almirante Brown","28/12",15,8
+"Floresta","28/12",15,8
+"Lomas de Zamora","28/12",15,8
+"Quilmes","28/12",15,8
+"Morón","28/12",15,8
+"Villa Santa Rita","28/12",15,7
+"Tres de Febrero","28/12",15,6
+"Boedo","28/12",15,6
+"Villa Real","28/12",15,6
+"Boca","28/12",15,5
+"Coghlan","28/12",15,5
+"Vélez Sársfield","28/12",15,5
+"Villa Gral. Mitre","28/12",15,5
+"Córdoba","28/12",15,4
+"Mataderos","28/12",15,4
+"Parque Avellaneda","28/12",15,4
+"Monte Castro","28/12",15,4
+"Villa Ortúzar","28/12",15,4
+"Liniers","28/12",15,4
+"Villa Lugano","28/12",15,4
+"General San Martín","28/12",15,4
+"Tigre","28/12",15,4
+"Villa Devoto","28/12",15,4
+"Chacarita","28/12",15,4
+"San Miguel","28/12",15,3
+"Parque Chas","28/12",15,3
+"Rosario","28/12",15,3
+"Monserrat","28/12",15,3
+"San Fernando","28/12",15,3
+"San Nicolás","28/12",15,2
+"Florencio Varela","28/12",15,2
+"Moreno","28/12",15,2
+"Saavedra","28/12",15,2
+"Versalles","28/12",15,2
+"Nueva Pompeya","28/12",15,2
+"Berazategui","28/12",15,2
+"Paternal","28/12",15,2
+"San Telmo","28/12",15,2
+"Esteban Echeverría","28/12",15,2
+"Villa Soldati","28/12",15,2
+"Barracas","28/12",15,1
+"Ezeiza","28/12",15,1
+"Malvinas Argentinas","28/12",15,1
+"Hurlingham","28/12",15,1
+"Mendoza","28/12",15,1
+"Constitución","28/12",15,1
+"Puerto Madero","28/12",15,1
+"Villa Luro","28/12",15,1
+"La Plata","28/12",15,1
+"Villa Pueyrredón","28/12",15,1
+"Retiro","28/12",15,1
+"Ituzaingó","28/12",15,1
+"Agronomía","28/12",15,1
+"Palermo","28/12",16,41
+"Belgrano","28/12",16,37
+"Caballito","28/12",16,27
+"Recoleta","28/12",16,25
+"Vicente López","28/12",16,25
+"Flores","28/12",16,24
+"Almagro","28/12",16,21
+"Villa Crespo","28/12",16,18
+"Parque Chacabuco","28/12",16,16
+"Lomas de Zamora","28/12",16,16
+"La Matanza","28/12",16,15
+"Villa Urquiza","28/12",16,15
+"Quilmes","28/12",16,14
+"San Isidro","28/12",16,12
+"Villa del Parque","28/12",16,12
+"Avellaneda","28/12",16,10
+"Almirante Brown","28/12",16,9
+"Núñez","28/12",16,9
+"Monte Castro","28/12",16,9
+"General San Martín","28/12",16,8
+"Boedo","28/12",16,8
+"San Cristóbal","28/12",16,8
+"Saavedra","28/12",16,7
+"Villa Santa Rita","28/12",16,7
+"Balvanera","28/12",16,6
+"Mataderos","28/12",16,6
+"Tigre","28/12",16,6
+"Chacarita","28/12",16,6
+"Parque Avellaneda","28/12",16,5
+"Villa Pueyrredón","28/12",16,5
+"Floresta","28/12",16,5
+"Villa Real","28/12",16,5
+"Villa Devoto","28/12",16,5
+"Rosario","28/12",16,5
+"Lanús","28/12",16,5
+"Paternal","28/12",16,5
+"Barracas","28/12",16,4
+"Boca","28/12",16,4
+"Villa Luro","28/12",16,4
+"Constitución","28/12",16,4
+"Morón","28/12",16,4
+"San Fernando","28/12",16,4
+"Tres de Febrero","28/12",16,4
+"Colegiales","28/12",16,4
+"Coghlan","28/12",16,3
+"Esteban Echeverría","28/12",16,3
+"Parque Chas","28/12",16,3
+"Malvinas Argentinas","28/12",16,3
+"Villa Gral. Mitre","28/12",16,3
+"Nueva Pompeya","28/12",16,3
+"Monserrat","28/12",16,3
+"San Nicolás","28/12",16,3
+"Villa Ortúzar","28/12",16,3
+"Córdoba","28/12",16,2
+"Berazategui","28/12",16,2
+"San Miguel","28/12",16,2
+"Villa Lugano","28/12",16,2
+"Liniers","28/12",16,1
+"Moreno","28/12",16,1
+"Ezeiza","28/12",16,1
+"Villa Riachuelo","28/12",16,1
+"La Plata","28/12",16,1
+"Hurlingham","28/12",16,1
+"Ituzaingó","28/12",16,1
+"Agronomía","28/12",16,1
+"San Telmo","28/12",16,1
+"Villa Soldati","28/12",16,1
+"Retiro","28/12",16,1
+"Versalles","28/12",16,1
+"Flores","28/12",17,26
+"Recoleta","28/12",17,25
+"Caballito","28/12",17,25
+"Belgrano","28/12",17,21
+"Palermo","28/12",17,16
+"Vicente López","28/12",17,15
+"La Matanza","28/12",17,14
+"Almagro","28/12",17,14
+"Quilmes","28/12",17,13
+"Lanús","28/12",17,12
+"Villa Crespo","28/12",17,10
+"Villa del Parque","28/12",17,10
+"Villa Urquiza","28/12",17,10
+"Villa Devoto","28/12",17,9
+"Balvanera","28/12",17,9
+"Núñez","28/12",17,9
+"San Isidro","28/12",17,8
+"Tres de Febrero","28/12",17,8
+"Lomas de Zamora","28/12",17,8
+"Boedo","28/12",17,8
+"Parque Chacabuco","28/12",17,8
+"Avellaneda","28/12",17,6
+"Almirante Brown","28/12",17,6
+"Floresta","28/12",17,6
+"La Plata","28/12",17,5
+"Villa Pueyrredón","28/12",17,5
+"Morón","28/12",17,4
+"Villa Santa Rita","28/12",17,4
+"Villa Gral. Mitre","28/12",17,4
+"Monte Castro","28/12",17,4
+"Constitución","28/12",17,4
+"San Telmo","28/12",17,4
+"Villa Ortúzar","28/12",17,3
+"Chacarita","28/12",17,3
+"Saavedra","28/12",17,3
+"Paternal","28/12",17,3
+"Agronomía","28/12",17,3
+"Villa Real","28/12",17,3
+"Parque Patricios","28/12",17,3
+"Colegiales","28/12",17,3
+"Mataderos","28/12",17,3
+"Villa Lugano","28/12",17,3
+"Ezeiza","28/12",17,3
+"Parque Chas","28/12",17,3
+"Barracas","28/12",17,3
+"Tigre","28/12",17,3
+"Merlo","28/12",17,3
+"San Fernando","28/12",17,3
+"General San Martín","28/12",17,3
+"Monserrat","28/12",17,2
+"San Cristóbal","28/12",17,2
+"Coghlan","28/12",17,2
+"San Nicolás","28/12",17,2
+"Retiro","28/12",17,2
+"Berazategui","28/12",17,2
+"San Miguel","28/12",17,2
+"Vélez Sársfield","28/12",17,2
+"Liniers","28/12",17,1
+"Boca","28/12",17,1
+"Rosario","28/12",17,1
+"Esteban Echeverría","28/12",17,1
+"Versalles","28/12",17,1
+"Moreno","28/12",17,1
+"Parque Avellaneda","28/12",17,1
+"Hurlingham","28/12",17,1
+"Florencio Varela","28/12",17,1
+"Malvinas Argentinas","28/12",17,1
+"Ituzaingó","28/12",17,1
+"Nueva Pompeya","28/12",17,1
+"Palermo","28/12",18,42
+"Caballito","28/12",18,27
+"Flores","28/12",18,22
+"Belgrano","28/12",18,17
+"Vélez Sársfield","28/12",18,15
+"Balvanera","28/12",18,14
+"Villa del Parque","28/12",18,14
+"Recoleta","28/12",18,13
+"Almagro","28/12",18,13
+"Villa Crespo","28/12",18,12
+"Tres de Febrero","28/12",18,11
+"San Isidro","28/12",18,11
+"La Matanza","28/12",18,10
+"Villa Devoto","28/12",18,9
+"Monte Castro","28/12",18,9
+"Lomas de Zamora","28/12",18,9
+"Parque Chacabuco","28/12",18,8
+"Lanús","28/12",18,8
+"Vicente López","28/12",18,8
+"San Fernando","28/12",18,7
+"Villa Urquiza","28/12",18,7
+"Avellaneda","28/12",18,6
+"Villa Santa Rita","28/12",18,6
+"Saavedra","28/12",18,6
+"Morón","28/12",18,5
+"Chacarita","28/12",18,5
+"Núñez","28/12",18,5
+"Colegiales","28/12",18,5
+"Quilmes","28/12",18,5
+"Coghlan","28/12",18,5
+"Merlo","28/12",18,4
+"General San Martín","28/12",18,4
+"Floresta","28/12",18,4
+"Mataderos","28/12",18,4
+"Parque Avellaneda","28/12",18,4
+"Villa Lugano","28/12",18,3
+"Villa Pueyrredón","28/12",18,3
+"Almirante Brown","28/12",18,3
+"San Cristóbal","28/12",18,3
+"Liniers","28/12",18,3
+"Esteban Echeverría","28/12",18,3
+"San Miguel","28/12",18,3
+"Hurlingham","28/12",18,3
+"Moreno","28/12",18,3
+"La Plata","28/12",18,3
+"Retiro","28/12",18,3
+"Barracas","28/12",18,3
+"Villa Gral. Mitre","28/12",18,2
+"Boedo","28/12",18,2
+"Boca","28/12",18,2
+"Monserrat","28/12",18,2
+"Ezeiza","28/12",18,2
+"Florencio Varela","28/12",18,2
+"Agronomía","28/12",18,2
+"Constitución","28/12",18,2
+"Berazategui","28/12",18,2
+"Villa Ortúzar","28/12",18,2
+"Ituzaingó","28/12",18,2
+"Paternal","28/12",18,2
+"Villa Soldati","28/12",18,1
+"Villa Real","28/12",18,1
+"San Telmo","28/12",18,1
+"Versalles","28/12",18,1
+"Nueva Pompeya","28/12",18,1
+"Parque Chas","28/12",18,1
+"Tigre","28/12",18,1
+"Rosario","28/12",18,1
+"Caballito","28/12",19,49
+"Palermo","28/12",19,41
+"Lanús","28/12",19,38
+"Belgrano","28/12",19,31
+"Almagro","28/12",19,27
+"La Matanza","28/12",19,25
+"Recoleta","28/12",19,23
+"Flores","28/12",19,20
+"Lomas de Zamora","28/12",19,20
+"Balvanera","28/12",19,20
+"Avellaneda","28/12",19,17
+"Morón","28/12",19,17
+"Vicente López","28/12",19,16
+"La Plata","28/12",19,16
+"Villa Urquiza","28/12",19,15
+"Villa Crespo","28/12",19,15
+"Villa del Parque","28/12",19,15
+"Villa Gral. Mitre","28/12",19,14
+"San Isidro","28/12",19,13
+"Villa Santa Rita","28/12",19,13
+"Quilmes","28/12",19,12
+"Tres de Febrero","28/12",19,11
+"Almirante Brown","28/12",19,11
+"General San Martín","28/12",19,11
+"Ituzaingó","28/12",19,10
+"Villa Devoto","28/12",19,10
+"Núñez","28/12",19,10
+"Villa Lugano","28/12",19,9
+"Parque Avellaneda","28/12",19,9
+"Rosario","28/12",19,8
+"Colegiales","28/12",19,8
+"Parque Chacabuco","28/12",19,8
+"Mataderos","28/12",19,8
+"San Fernando","28/12",19,8
+"Villa Luro","28/12",19,7
+"Monte Castro","28/12",19,7
+"Tigre","28/12",19,7
+"Vélez Sársfield","28/12",19,6
+"Berazategui","28/12",19,6
+"San Cristóbal","28/12",19,6
+"Moreno","28/12",19,6
+"San Miguel","28/12",19,6
+"Boedo","28/12",19,6
+"Barracas","28/12",19,6
+"Esteban Echeverría","28/12",19,6
+"Córdoba","28/12",19,6
+"Saavedra","28/12",19,6
+"Villa Pueyrredón","28/12",19,6
+"Florencio Varela","28/12",19,6
+"Paternal","28/12",19,5
+"Chacarita","28/12",19,5
+"Constitución","28/12",19,5
+"Floresta","28/12",19,4
+"San Nicolás","28/12",19,4
+"Monserrat","28/12",19,4
+"Hurlingham","28/12",19,4
+"Malvinas Argentinas","28/12",19,3
+"Merlo","28/12",19,3
+"Retiro","28/12",19,3
+"Villa Real","28/12",19,3
+"Coghlan","28/12",19,3
+"Parque Chas","28/12",19,3
+"Parque Patricios","28/12",19,3
+"Liniers","28/12",19,2
+"José C. Paz","28/12",19,2
+"Versalles","28/12",19,2
+"Mendoza","28/12",19,2
+"Boca","28/12",19,2
+"Nueva Pompeya","28/12",19,2
+"Agronomía","28/12",19,2
+"San Telmo","28/12",19,1
+"Villa Ortúzar","28/12",19,1
+"Ezeiza","28/12",19,1
+"Caballito","28/12",20,46
+"Palermo","28/12",20,41
+"La Matanza","28/12",20,34
+"Flores","28/12",20,30
+"Lanús","28/12",20,29
+"Almagro","28/12",20,28
+"Balvanera","28/12",20,26
+"Belgrano","28/12",20,23
+"Lomas de Zamora","28/12",20,20
+"Villa Urquiza","28/12",20,20
+"Recoleta","28/12",20,20
+"General San Martín","28/12",20,19
+"Villa Crespo","28/12",20,18
+"Tres de Febrero","28/12",20,18
+"Vicente López","28/12",20,18
+"Parque Chacabuco","28/12",20,16
+"Quilmes","28/12",20,16
+"Saavedra","28/12",20,16
+"Avellaneda","28/12",20,16
+"San Fernando","28/12",20,13
+"Morón","28/12",20,13
+"San Isidro","28/12",20,13
+"Villa Devoto","28/12",20,13
+"Núñez","28/12",20,12
+"Villa Santa Rita","28/12",20,11
+"La Plata","28/12",20,11
+"Almirante Brown","28/12",20,10
+"Villa Gral. Mitre","28/12",20,10
+"San Cristóbal","28/12",20,9
+"Villa del Parque","28/12",20,9
+"Esteban Echeverría","28/12",20,8
+"Boedo","28/12",20,8
+"Tigre","28/12",20,7
+"Merlo","28/12",20,7
+"Villa Lugano","28/12",20,7
+"Parque Avellaneda","28/12",20,7
+"Constitución","28/12",20,6
+"Chacarita","28/12",20,6
+"Floresta","28/12",20,6
+"Moreno","28/12",20,5
+"Villa Ortúzar","28/12",20,5
+"Agronomía","28/12",20,5
+"Parque Chas","28/12",20,5
+"Rosario","28/12",20,5
+"Colegiales","28/12",20,5
+"Monserrat","28/12",20,5
+"Monte Castro","28/12",20,4
+"Barracas","28/12",20,4
+"Berazategui","28/12",20,4
+"Nueva Pompeya","28/12",20,4
+"Mataderos","28/12",20,3
+"Villa Real","28/12",20,3
+"Florencio Varela","28/12",20,3
+"Ezeiza","28/12",20,3
+"Malvinas Argentinas","28/12",20,3
+"Ituzaingó","28/12",20,3
+"Villa Luro","28/12",20,3
+"Liniers","28/12",20,3
+"Retiro","28/12",20,3
+"Versalles","28/12",20,3
+"Boca","28/12",20,3
+"Parque Patricios","28/12",20,3
+"San Telmo","28/12",20,3
+"San Miguel","28/12",20,2
+"Vélez Sársfield","28/12",20,2
+"San Nicolás","28/12",20,2
+"Hurlingham","28/12",20,1
+"Paternal","28/12",20,1
+"Villa Soldati","28/12",20,1
+"Villa Pueyrredón","28/12",20,1
+"Coghlan","28/12",20,1
+"Mendoza","28/12",20,1
+"Belgrano","28/12",21,30
+"Palermo","28/12",21,27
+"Flores","28/12",21,24
+"Caballito","28/12",21,23
+"Quilmes","28/12",21,19
+"Villa del Parque","28/12",21,16
+"Almagro","28/12",21,16
+"La Matanza","28/12",21,16
+"Villa Crespo","28/12",21,15
+"Núñez","28/12",21,14
+"Avellaneda","28/12",21,14
+"Villa Urquiza","28/12",21,13
+"Recoleta","28/12",21,13
+"San Isidro","28/12",21,12
+"Vicente López","28/12",21,11
+"Villa Lugano","28/12",21,11
+"Lanús","28/12",21,11
+"Almirante Brown","28/12",21,10
+"Villa Gral. Mitre","28/12",21,9
+"Villa Devoto","28/12",21,9
+"Lomas de Zamora","28/12",21,9
+"Villa Santa Rita","28/12",21,8
+"Parque Chacabuco","28/12",21,8
+"Colegiales","28/12",21,8
+"Boedo","28/12",21,7
+"San Cristóbal","28/12",21,7
+"San Nicolás","28/12",21,7
+"Tres de Febrero","28/12",21,6
+"Mataderos","28/12",21,6
+"Monserrat","28/12",21,6
+"Esteban Echeverría","28/12",21,5
+"Villa Ortúzar","28/12",21,5
+"Morón","28/12",21,5
+"General San Martín","28/12",21,5
+"Monte Castro","28/12",21,5
+"Balvanera","28/12",21,5
+"Parque Avellaneda","28/12",21,5
+"Liniers","28/12",21,5
+"San Miguel","28/12",21,4
+"Paternal","28/12",21,4
+"José C. Paz","28/12",21,4
+"Agronomía","28/12",21,4
+"La Plata","28/12",21,4
+"Chacarita","28/12",21,4
+"Barracas","28/12",21,4
+"Floresta","28/12",21,4
+"San Fernando","28/12",21,3
+"Malvinas Argentinas","28/12",21,3
+"Villa Luro","28/12",21,3
+"Nueva Pompeya","28/12",21,3
+"Retiro","28/12",21,3
+"Berazategui","28/12",21,3
+"Boca","28/12",21,3
+"Tigre","28/12",21,3
+"Constitución","28/12",21,3
+"Villa Pueyrredón","28/12",21,3
+"Ezeiza","28/12",21,2
+"Rosario","28/12",21,2
+"Parque Chas","28/12",21,2
+"Hurlingham","28/12",21,2
+"Villa Real","28/12",21,2
+"Moreno","28/12",21,2
+"Saavedra","28/12",21,2
+"Villa Riachuelo","28/12",21,1
+"Puerto Madero","28/12",21,1
+"San Telmo","28/12",21,1
+"Parque Patricios","28/12",21,1
+"Florencio Varela","28/12",21,1
+"Vélez Sársfield","28/12",21,1
+"Coghlan","28/12",21,1
+"Versalles","28/12",21,1
+"Merlo","28/12",21,1
+"Palermo","28/12",22,38
+"Caballito","28/12",22,34
+"Recoleta","28/12",22,26
+"Flores","28/12",22,16
+"Balvanera","28/12",22,14
+"Villa Crespo","28/12",22,14
+"Villa Devoto","28/12",22,14
+"Almagro","28/12",22,13
+"San Isidro","28/12",22,13
+"Villa Urquiza","28/12",22,10
+"Belgrano","28/12",22,10
+"Lomas de Zamora","28/12",22,9
+"Núñez","28/12",22,9
+"Lanús","28/12",22,9
+"Tres de Febrero","28/12",22,8
+"La Matanza","28/12",22,8
+"Parque Chacabuco","28/12",22,8
+"Villa del Parque","28/12",22,8
+"Almirante Brown","28/12",22,8
+"Avellaneda","28/12",22,8
+"Mataderos","28/12",22,7
+"Moreno","28/12",22,7
+"San Fernando","28/12",22,7
+"Berazategui","28/12",22,7
+"Saavedra","28/12",22,6
+"Colegiales","28/12",22,6
+"Florencio Varela","28/12",22,5
+"Esteban Echeverría","28/12",22,5
+"Quilmes","28/12",22,5
+"Morón","28/12",22,5
+"Boedo","28/12",22,5
+"Vicente López","28/12",22,5
+"Floresta","28/12",22,4
+"Villa Santa Rita","28/12",22,4
+"La Plata","28/12",22,4
+"General San Martín","28/12",22,4
+"Villa Gral. Mitre","28/12",22,4
+"Parque Avellaneda","28/12",22,4
+"Villa Real","28/12",22,4
+"Rosario","28/12",22,4
+"Coghlan","28/12",22,4
+"Villa Luro","28/12",22,4
+"Parque Patricios","28/12",22,3
+"Paternal","28/12",22,3
+"San Miguel","28/12",22,3
+"San Nicolás","28/12",22,3
+"Liniers","28/12",22,3
+"Monserrat","28/12",22,3
+"Versalles","28/12",22,3
+"Chacarita","28/12",22,3
+"Barracas","28/12",22,3
+"José C. Paz","28/12",22,2
+"Parque Chas","28/12",22,2
+"Nueva Pompeya","28/12",22,2
+"Tigre","28/12",22,2
+"Córdoba","28/12",22,2
+"San Telmo","28/12",22,2
+"Vélez Sársfield","28/12",22,2
+"Villa Lugano","28/12",22,2
+"Monte Castro","28/12",22,1
+"Hurlingham","28/12",22,1
+"Villa Ortúzar","28/12",22,1
+"Merlo","28/12",22,1
+"Retiro","28/12",22,1
+"Boca","28/12",22,1
+"Ituzaingó","28/12",22,1
+"Constitución","28/12",22,1
+"Villa Soldati","28/12",22,1
+"Palermo","28/12",23,22
+"Caballito","28/12",23,19
+"Villa Crespo","28/12",23,15
+"Quilmes","28/12",23,12
+"Belgrano","28/12",23,12
+"Villa Urquiza","28/12",23,11
+"Lanús","28/12",23,11
+"La Matanza","28/12",23,9
+"Parque Chacabuco","28/12",23,8
+"Recoleta","28/12",23,8
+"Almirante Brown","28/12",23,8
+"Villa del Parque","28/12",23,8
+"Morón","28/12",23,8
+"San Isidro","28/12",23,7
+"Avellaneda","28/12",23,7
+"Vicente López","28/12",23,7
+"Villa Gral. Mitre","28/12",23,7
+"Lomas de Zamora","28/12",23,7
+"Balvanera","28/12",23,7
+"Tres de Febrero","28/12",23,6
+"Villa Devoto","28/12",23,6
+"Almagro","28/12",23,6
+"Flores","28/12",23,6
+"Ituzaingó","28/12",23,5
+"Mataderos","28/12",23,5
+"Saavedra","28/12",23,5
+"La Plata","28/12",23,5
+"Boedo","28/12",23,5
+"Núñez","28/12",23,5
+"Vélez Sársfield","28/12",23,4
+"San Cristóbal","28/12",23,4
+"Berazategui","28/12",23,4
+"Villa Real","28/12",23,4
+"Rosario","28/12",23,3
+"Tigre","28/12",23,3
+"Florencio Varela","28/12",23,3
+"Villa Pueyrredón","28/12",23,3
+"Parque Chas","28/12",23,3
+"Retiro","28/12",23,3
+"Villa Lugano","28/12",23,3
+"General San Martín","28/12",23,3
+"Villa Santa Rita","28/12",23,3
+"Coghlan","28/12",23,3
+"Colegiales","28/12",23,3
+"Barracas","28/12",23,3
+"Parque Avellaneda","28/12",23,2
+"Hurlingham","28/12",23,2
+"Boca","28/12",23,2
+"Monte Castro","28/12",23,2
+"Monserrat","28/12",23,2
+"Merlo","28/12",23,2
+"San Fernando","28/12",23,2
+"San Miguel","28/12",23,2
+"Villa Luro","28/12",23,2
+"San Telmo","28/12",23,2
+"Paternal","28/12",23,2
+"Esteban Echeverría","28/12",23,1
+"Ezeiza","28/12",23,1
+"Nueva Pompeya","28/12",23,1
+"Chacarita","28/12",23,1
+"José C. Paz","28/12",23,1
+"Liniers","28/12",23,1
+"Malvinas Argentinas","28/12",23,1
+"Floresta","28/12",23,1
+"Moreno","28/12",23,1
+"Parque Patricios","28/12",23,1
+"Córdoba","28/12",23,1
+"Puerto Madero","28/12",23,1
+"San Nicolás","28/12",23,1
+"Constitución","28/12",23,1
+"Versalles","28/12",23,1
+"Palermo","29/12",0,17
+"Caballito","29/12",0,17
+"Recoleta","29/12",0,13
+"La Matanza","29/12",0,12
+"Tres de Febrero","29/12",0,9
+"San Fernando","29/12",0,9
+"Flores","29/12",0,9
+"Lanús","29/12",0,9
+"Vicente López","29/12",0,9
+"Balvanera","29/12",0,8
+"Almagro","29/12",0,8
+"Villa Crespo","29/12",0,7
+"Belgrano","29/12",0,7
+"Boca","29/12",0,7
+"Quilmes","29/12",0,6
+"Almirante Brown","29/12",0,6
+"Berazategui","29/12",0,6
+"Núñez","29/12",0,6
+"San Isidro","29/12",0,6
+"Avellaneda","29/12",0,6
+"Monte Castro","29/12",0,4
+"Parque Avellaneda","29/12",0,4
+"Villa del Parque","29/12",0,4
+"Villa Gral. Mitre","29/12",0,4
+"Saavedra","29/12",0,3
+"Floresta","29/12",0,3
+"Villa Pueyrredón","29/12",0,3
+"Moreno","29/12",0,3
+"Villa Urquiza","29/12",0,3
+"General San Martín","29/12",0,3
+"La Plata","29/12",0,3
+"Paternal","29/12",0,3
+"Esteban Echeverría","29/12",0,3
+"Barracas","29/12",0,3
+"Ituzaingó","29/12",0,2
+"Rosario","29/12",0,2
+"Liniers","29/12",0,2
+"Boedo","29/12",0,2
+"Villa Devoto","29/12",0,2
+"Tigre","29/12",0,2
+"Ezeiza","29/12",0,2
+"Mataderos","29/12",0,2
+"Merlo","29/12",0,2
+"San Cristóbal","29/12",0,2
+"Lomas de Zamora","29/12",0,2
+"Colegiales","29/12",0,2
+"Morón","29/12",0,1
+"San Miguel","29/12",0,1
+"Villa Luro","29/12",0,1
+"Parque Chacabuco","29/12",0,1
+"San Telmo","29/12",0,1
+"Malvinas Argentinas","29/12",0,1
+"Chacarita","29/12",0,1
+"Retiro","29/12",0,1
+"Villa Soldati","29/12",0,1
+"Villa Lugano","29/12",0,1
+"Villa Real","29/12",0,1
+"Vélez Sársfield","29/12",0,1
+"Villa Santa Rita","29/12",0,1
+"San Nicolás","29/12",0,1
+"Constitución","29/12",0,1
+"Versalles","29/12",0,1
+"Monserrat","29/12",0,1
+"Coghlan","29/12",0,1
+"Palermo","29/12",1,12
+"Avellaneda","29/12",1,8
+"Quilmes","29/12",1,8
+"Recoleta","29/12",1,8
+"Belgrano","29/12",1,7
+"Vicente López","29/12",1,7
+"Villa del Parque","29/12",1,7
+"Saavedra","29/12",1,6
+"Floresta","29/12",1,6
+"Flores","29/12",1,6
+"Colegiales","29/12",1,6
+"Balvanera","29/12",1,6
+"Caballito","29/12",1,6
+"Almagro","29/12",1,5
+"Villa Crespo","29/12",1,5
+"Lomas de Zamora","29/12",1,5
+"San Fernando","29/12",1,5
+"Mataderos","29/12",1,4
+"La Matanza","29/12",1,4
+"Lanús","29/12",1,4
+"Almirante Brown","29/12",1,4
+"Villa Gral. Mitre","29/12",1,3
+"San Isidro","29/12",1,3
+"General San Martín","29/12",1,3
+"Vélez Sársfield","29/12",1,3
+"Paternal","29/12",1,3
+"La Plata","29/12",1,3
+"Núñez","29/12",1,3
+"Morón","29/12",1,2
+"Monte Castro","29/12",1,2
+"Parque Chacabuco","29/12",1,2
+"Versalles","29/12",1,2
+"Chacarita","29/12",1,2
+"Villa Urquiza","29/12",1,2
+"Coghlan","29/12",1,2
+"Tres de Febrero","29/12",1,2
+"Villa Luro","29/12",1,2
+"Parque Patricios","29/12",1,2
+"Villa Santa Rita","29/12",1,2
+"Villa Devoto","29/12",1,2
+"Merlo","29/12",1,1
+"Villa Lugano","29/12",1,1
+"Liniers","29/12",1,1
+"Nueva Pompeya","29/12",1,1
+"Ituzaingó","29/12",1,1
+"Parque Avellaneda","29/12",1,1
+"Agronomía","29/12",1,1
+"Córdoba","29/12",1,1
+"Esteban Echeverría","29/12",1,1
+"Boedo","29/12",1,1
+"San Cristóbal","29/12",1,1
+"San Miguel","29/12",1,1
+"San Nicolás","29/12",1,1
+"Villa Real","29/12",1,1
+"Ezeiza","29/12",1,1
+"Rosario","29/12",1,1
+"Hurlingham","29/12",1,1
+"La Matanza","29/12",2,10
+"Villa Crespo","29/12",2,7
+"Caballito","29/12",2,6
+"Flores","29/12",2,6
+"Villa del Parque","29/12",2,6
+"Avellaneda","29/12",2,5
+"Villa Pueyrredón","29/12",2,5
+"Palermo","29/12",2,5
+"Almirante Brown","29/12",2,5
+"Villa Lugano","29/12",2,4
+"Balvanera","29/12",2,4
+"Villa Santa Rita","29/12",2,4
+"Lanús","29/12",2,4
+"Villa Urquiza","29/12",2,3
+"Parque Chas","29/12",2,3
+"La Plata","29/12",2,3
+"Vicente López","29/12",2,3
+"Belgrano","29/12",2,3
+"San Isidro","29/12",2,3
+"Quilmes","29/12",2,3
+"San Cristóbal","29/12",2,3
+"Rosario","29/12",2,3
+"Lomas de Zamora","29/12",2,2
+"Monte Castro","29/12",2,2
+"Ituzaingó","29/12",2,2
+"Morón","29/12",2,2
+"Parque Chacabuco","29/12",2,2
+"Recoleta","29/12",2,2
+"Boedo","29/12",2,2
+"Villa Real","29/12",2,2
+"Almagro","29/12",2,2
+"Berazategui","29/12",2,2
+"Colegiales","29/12",2,2
+"General San Martín","29/12",2,2
+"Liniers","29/12",2,1
+"Barracas","29/12",2,1
+"Parque Patricios","29/12",2,1
+"Paternal","29/12",2,1
+"Mataderos","29/12",2,1
+"Vélez Sársfield","29/12",2,1
+"Villa Devoto","29/12",2,1
+"Parque Avellaneda","29/12",2,1
+"Agronomía","29/12",2,1
+"Saavedra","29/12",2,1
+"Retiro","29/12",2,1
+"Núñez","29/12",2,1
+"Esteban Echeverría","29/12",2,1
+"Versalles","29/12",2,1
+"Palermo","29/12",3,8
+"Caballito","29/12",3,7
+"Villa Urquiza","29/12",3,5
+"Villa Crespo","29/12",3,5
+"Lomas de Zamora","29/12",3,5
+"Almagro","29/12",3,3
+"Almirante Brown","29/12",3,3
+"Balvanera","29/12",3,3
+"Avellaneda","29/12",3,3
+"Vicente López","29/12",3,3
+"San Cristóbal","29/12",3,3
+"Mataderos","29/12",3,3
+"Flores","29/12",3,3
+"Ituzaingó","29/12",3,3
+"Lanús","29/12",3,3
+"General San Martín","29/12",3,2
+"Villa Devoto","29/12",3,2
+"Quilmes","29/12",3,2
+"Tres de Febrero","29/12",3,2
+"Berazategui","29/12",3,2
+"Monte Castro","29/12",3,1
+"Núñez","29/12",3,1
+"Rosario","29/12",3,1
+"Villa Luro","29/12",3,1
+"Boedo","29/12",3,1
+"Versalles","29/12",3,1
+"Esteban Echeverría","29/12",3,1
+"Villa Gral. Mitre","29/12",3,1
+"Belgrano","29/12",3,1
+"Villa Lugano","29/12",3,1
+"La Plata","29/12",3,1
+"Paternal","29/12",3,1
+"Parque Chacabuco","29/12",3,1
+"Barracas","29/12",3,1
+"Villa Pueyrredón","29/12",3,1
+"Retiro","29/12",3,1
+"Moreno","29/12",3,1
+"La Matanza","29/12",3,1
+"San Nicolás","29/12",3,1
+"Hurlingham","29/12",3,1
+"Villa Luro","29/12",4,3
+"Caballito","29/12",4,3
+"Palermo","29/12",4,3
+"Almirante Brown","29/12",4,2
+"General San Martín","29/12",4,2
+"Parque Avellaneda","29/12",4,2
+"Villa Urquiza","29/12",4,2
+"Villa Crespo","29/12",4,2
+"Merlo","29/12",4,2
+"Paternal","29/12",4,2
+"Malvinas Argentinas","29/12",4,2
+"Vicente López","29/12",4,2
+"Quilmes","29/12",4,2
+"Balvanera","29/12",4,2
+"Villa Devoto","29/12",4,1
+"Moreno","29/12",4,1
+"Córdoba","29/12",4,1
+"Recoleta","29/12",4,1
+"San Telmo","29/12",4,1
+"Chacarita","29/12",4,1
+"Parque Chacabuco","29/12",4,1
+"San Fernando","29/12",4,1
+"Liniers","29/12",4,1
+"Almagro","29/12",4,1
+"Parque Chas","29/12",4,1
+"Tres de Febrero","29/12",4,1
+"Barracas","29/12",4,1
+"La Plata","29/12",4,1
+"Saavedra","29/12",4,1
+"Avellaneda","29/12",5,3
+"San Cristóbal","29/12",5,2
+"Villa Crespo","29/12",5,2
+"Chacarita","29/12",5,1
+"Morón","29/12",5,1
+"Córdoba","29/12",5,1
+"Palermo","29/12",5,1
+"Balvanera","29/12",5,1
+"Vélez Sársfield","29/12",5,1
+"Mataderos","29/12",5,1
+"Caballito","29/12",5,1
+"Barracas","29/12",5,1
+"Villa Urquiza","29/12",5,1
+"Tigre","29/12",5,1
+"Almirante Brown","29/12",5,1
+"Caballito","29/12",6,5
+"Avellaneda","29/12",6,2
+"Paternal","29/12",6,2
+"Balvanera","29/12",6,1
+"Merlo","29/12",6,1
+"Saavedra","29/12",6,1
+"Palermo","29/12",6,1
+"Villa Riachuelo","29/12",6,1
+"Morón","29/12",6,1
+"Quilmes","29/12",6,1
+"Parque Avellaneda","29/12",6,1
+"Lomas de Zamora","29/12",6,1
+"Villa Crespo","29/12",6,1
+"Vicente López","29/12",6,1
+"La Plata","29/12",6,1
+"Caballito","29/12",7,5
+"Almagro","29/12",7,4
+"Almirante Brown","29/12",7,3
+"Lanús","29/12",7,3
+"Monte Castro","29/12",7,2
+"Paternal","29/12",7,2
+"San Fernando","29/12",7,2
+"Vélez Sársfield","29/12",7,2
+"Saavedra","29/12",7,2
+"Avellaneda","29/12",7,2
+"Esteban Echeverría","29/12",7,1
+"Hurlingham","29/12",7,1
+"Malvinas Argentinas","29/12",7,1
+"Villa Lugano","29/12",7,1
+"Villa Luro","29/12",7,1
+"San Cristóbal","29/12",7,1
+"Flores","29/12",7,1
+"Quilmes","29/12",7,1
+"Parque Chas","29/12",7,1
+"Balvanera","29/12",7,1
+"Barracas","29/12",7,1
+"Vicente López","29/12",7,1
+"Caballito","29/12",8,4
+"Liniers","29/12",8,3
+"Villa del Parque","29/12",8,3
+"La Matanza","29/12",8,3
+"Villa Pueyrredón","29/12",8,3
+"Parque Avellaneda","29/12",8,2
+"Villa Devoto","29/12",8,2
+"Rosario","29/12",8,2
+"Avellaneda","29/12",8,2
+"Boedo","29/12",8,2
+"Flores","29/12",8,1
+"Monserrat","29/12",8,1
+"Lanús","29/12",8,1
+"San Nicolás","29/12",8,1
+"Quilmes","29/12",8,1
+"La Plata","29/12",8,1
+"Belgrano","29/12",8,1
+"Villa Crespo","29/12",8,1
+"Nueva Pompeya","29/12",8,1
+"Paternal","29/12",8,1
+"Tres de Febrero","29/12",8,1
+"Constitución","29/12",8,1
+"Caballito","29/12",9,8
+"Rosario","29/12",9,6
+"Almagro","29/12",9,6
+"Avellaneda","29/12",9,5
+"Parque Chacabuco","29/12",9,5
+"Villa Devoto","29/12",9,4
+"Villa Crespo","29/12",9,4
+"Villa Lugano","29/12",9,3
+"Palermo","29/12",9,3
+"Lanús","29/12",9,3
+"Balvanera","29/12",9,3
+"Floresta","29/12",9,3
+"Saavedra","29/12",9,2
+"Núñez","29/12",9,2
+"Villa Urquiza","29/12",9,2
+"Belgrano","29/12",9,2
+"Villa Santa Rita","29/12",9,2
+"Morón","29/12",9,2
+"Colegiales","29/12",9,2
+"Lomas de Zamora","29/12",9,2
+"Almirante Brown","29/12",9,2
+"Vicente López","29/12",9,2
+"Barracas","29/12",9,1
+"Parque Chas","29/12",9,1
+"Constitución","29/12",9,1
+"Liniers","29/12",9,1
+"Villa del Parque","29/12",9,1
+"Parque Patricios","29/12",9,1
+"San Nicolás","29/12",9,1
+"Quilmes","29/12",9,1
+"Villa Luro","29/12",9,1
+"Nueva Pompeya","29/12",9,1
+"Villa Pueyrredón","29/12",9,1
+"Coghlan","29/12",9,1
+"General San Martín","29/12",9,1
+"Boedo","29/12",9,1
+"Flores","29/12",9,1
+"Mataderos","29/12",9,1
+"Agronomía","29/12",9,1
+"Esteban Echeverría","29/12",9,1
+"Caballito","29/12",10,14
+"Villa del Parque","29/12",10,9
+"Belgrano","29/12",10,6
+"La Matanza","29/12",10,6
+"Rosario","29/12",10,6
+"Balvanera","29/12",10,5
+"Lanús","29/12",10,5
+"Almagro","29/12",10,4
+"Recoleta","29/12",10,4
+"Flores","29/12",10,3
+"Vicente López","29/12",10,3
+"Agronomía","29/12",10,3
+"Morón","29/12",10,3
+"Villa Crespo","29/12",10,3
+"Palermo","29/12",10,3
+"Versalles","29/12",10,3
+"San Fernando","29/12",10,3
+"Boedo","29/12",10,3
+"Liniers","29/12",10,3
+"Mataderos","29/12",10,3
+"Villa Real","29/12",10,2
+"Tigre","29/12",10,2
+"Villa Gral. Mitre","29/12",10,2
+"Villa Santa Rita","29/12",10,2
+"Monte Castro","29/12",10,2
+"San Cristóbal","29/12",10,2
+"Almirante Brown","29/12",10,2
+"Vélez Sársfield","29/12",10,2
+"Colegiales","29/12",10,2
+"Quilmes","29/12",10,2
+"Florencio Varela","29/12",10,1
+"San Isidro","29/12",10,1
+"Villa Pueyrredón","29/12",10,1
+"Boca","29/12",10,1
+"Esteban Echeverría","29/12",10,1
+"Floresta","29/12",10,1
+"Chacarita","29/12",10,1
+"Lomas de Zamora","29/12",10,1
+"Villa Devoto","29/12",10,1
+"General San Martín","29/12",10,1
+"Malvinas Argentinas","29/12",10,1
+"Villa Urquiza","29/12",10,1
+"Saavedra","29/12",10,1
+"Avellaneda","29/12",10,1
+"Paternal","29/12",10,1
+"Ituzaingó","29/12",10,1
+"Tres de Febrero","29/12",10,1
+"Parque Chacabuco","29/12",10,1
+"Flores","29/12",11,10
+"Caballito","29/12",11,9
+"Palermo","29/12",11,8
+"Rosario","29/12",11,8
+"Lanús","29/12",11,6
+"Avellaneda","29/12",11,6
+"Parque Chacabuco","29/12",11,5
+"Villa Crespo","29/12",11,5
+"Recoleta","29/12",11,4
+"Villa Urquiza","29/12",11,4
+"Vicente López","29/12",11,3
+"Villa Santa Rita","29/12",11,3
+"Almagro","29/12",11,3
+"Colegiales","29/12",11,3
+"Boedo","29/12",11,3
+"Balvanera","29/12",11,3
+"Floresta","29/12",11,3
+"San Nicolás","29/12",11,2
+"Villa Soldati","29/12",11,2
+"Villa Luro","29/12",11,2
+"Tres de Febrero","29/12",11,2
+"Villa Lugano","29/12",11,2
+"La Matanza","29/12",11,2
+"Barracas","29/12",11,2
+"Lomas de Zamora","29/12",11,2
+"Parque Avellaneda","29/12",11,2
+"Agronomía","29/12",11,2
+"Saavedra","29/12",11,2
+"Mataderos","29/12",11,2
+"Quilmes","29/12",11,2
+"Morón","29/12",11,2
+"Villa del Parque","29/12",11,1
+"Parque Patricios","29/12",11,1
+"Almirante Brown","29/12",11,1
+"Vélez Sársfield","29/12",11,1
+"Esteban Echeverría","29/12",11,1
+"Monte Castro","29/12",11,1
+"Chacarita","29/12",11,1
+"Parque Chas","29/12",11,1
+"Villa Gral. Mitre","29/12",11,1
+"General San Martín","29/12",11,1
+"Belgrano","29/12",11,1
+"Paternal","29/12",11,1
+"Versalles","29/12",11,1
+"San Isidro","29/12",11,1
+"Tigre","29/12",11,1
+"Berazategui","29/12",11,1
+"Núñez","29/12",11,1
+"Palermo","29/12",12,10
+"Caballito","29/12",12,10
+"Almagro","29/12",12,9
+"Rosario","29/12",12,6
+"Recoleta","29/12",12,6
+"Flores","29/12",12,4
+"La Plata","29/12",12,4
+"Monte Castro","29/12",12,4
+"Avellaneda","29/12",12,4
+"San Cristóbal","29/12",12,4
+"Balvanera","29/12",12,4
+"Villa Urquiza","29/12",12,4
+"Monserrat","29/12",12,3
+"San Isidro","29/12",12,3
+"Belgrano","29/12",12,3
+"San Nicolás","29/12",12,3
+"Mataderos","29/12",12,3
+"General San Martín","29/12",12,2
+"Morón","29/12",12,2
+"Ituzaingó","29/12",12,2
+"Villa Devoto","29/12",12,2
+"Tigre","29/12",12,2
+"Villa Crespo","29/12",12,2
+"Nueva Pompeya","29/12",12,2
+"Vicente López","29/12",12,2
+"Lanús","29/12",12,2
+"Villa Lugano","29/12",12,2
+"Esteban Echeverría","29/12",12,2
+"Parque Patricios","29/12",12,1
+"Villa Santa Rita","29/12",12,1
+"San Fernando","29/12",12,1
+"Floresta","29/12",12,1
+"Lomas de Zamora","29/12",12,1
+"Berazategui","29/12",12,1
+"Parque Avellaneda","29/12",12,1
+"Villa Gral. Mitre","29/12",12,1
+"Versalles","29/12",12,1
+"Quilmes","29/12",12,1
+"Núñez","29/12",12,1
+"Tres de Febrero","29/12",12,1
+"Villa Luro","29/12",12,1
+"Barracas","29/12",12,1
+"Retiro","29/12",12,1
+"Parque Chacabuco","29/12",12,1
+"La Matanza","29/12",12,1
+"Villa del Parque","29/12",12,1
+"Rosario","29/12",13,11
+"Balvanera","29/12",13,8
+"Caballito","29/12",13,6
+"Lanús","29/12",13,5
+"Villa del Parque","29/12",13,5
+"Villa Pueyrredón","29/12",13,4
+"Palermo","29/12",13,4
+"Belgrano","29/12",13,4
+"Parque Chacabuco","29/12",13,4
+"Liniers","29/12",13,3
+"Villa Crespo","29/12",13,3
+"Berazategui","29/12",13,3
+"Almagro","29/12",13,3
+"Quilmes","29/12",13,3
+"Núñez","29/12",13,2
+"Mataderos","29/12",13,2
+"Tres de Febrero","29/12",13,2
+"San Cristóbal","29/12",13,2
+"Villa Luro","29/12",13,2
+"Avellaneda","29/12",13,2
+"San Isidro","29/12",13,2
+"Villa Devoto","29/12",13,2
+"Recoleta","29/12",13,2
+"Monte Castro","29/12",13,2
+"Florencio Varela","29/12",13,2
+"Paternal","29/12",13,2
+"Saavedra","29/12",13,2
+"Colegiales","29/12",13,2
+"Barracas","29/12",13,2
+"Almirante Brown","29/12",13,2
+"Flores","29/12",13,2
+"Villa Real","29/12",13,1
+"Agronomía","29/12",13,1
+"Villa Santa Rita","29/12",13,1
+"Morón","29/12",13,1
+"Constitución","29/12",13,1
+"San Fernando","29/12",13,1
+"San Telmo","29/12",13,1
+"Merlo","29/12",13,1
+"La Plata","29/12",13,1
+"Hurlingham","29/12",13,1
+"Chacarita","29/12",13,1
+"Boca","29/12",13,1
+"Versalles","29/12",13,1
+"Parque Patricios","29/12",13,1
+"Ituzaingó","29/12",13,1
+"La Matanza","29/12",13,1
+"Villa Urquiza","29/12",13,1
+"Moreno","29/12",14,10
+"Versalles","29/12",14,9
+"Caballito","29/12",14,7
+"Avellaneda","29/12",14,7
+"Villa Urquiza","29/12",14,6
+"Berazategui","29/12",14,5
+"Flores","29/12",14,5
+"Villa Crespo","29/12",14,5
+"Lomas de Zamora","29/12",14,4
+"Lanús","29/12",14,4
+"Belgrano","29/12",14,4
+"La Matanza","29/12",14,4
+"Rosario","29/12",14,4
+"Monte Castro","29/12",14,3
+"San Isidro","29/12",14,3
+"Almagro","29/12",14,3
+"Villa Devoto","29/12",14,3
+"Parque Chacabuco","29/12",14,3
+"Balvanera","29/12",14,3
+"Vicente López","29/12",14,3
+"Almirante Brown","29/12",14,3
+"Chacarita","29/12",14,2
+"Saavedra","29/12",14,2
+"La Plata","29/12",14,2
+"Boca","29/12",14,2
+"Tres de Febrero","29/12",14,2
+"San Nicolás","29/12",14,2
+"General San Martín","29/12",14,2
+"Parque Patricios","29/12",14,2
+"Villa del Parque","29/12",14,2
+"Boedo","29/12",14,2
+"San Cristóbal","29/12",14,2
+"Floresta","29/12",14,2
+"Palermo","29/12",14,1
+"Colegiales","29/12",14,1
+"Nueva Pompeya","29/12",14,1
+"Recoleta","29/12",14,1
+"Hurlingham","29/12",14,1
+"Constitución","29/12",14,1
+"San Miguel","29/12",14,1
+"Liniers","29/12",14,1
+"San Fernando","29/12",14,1
+"Malvinas Argentinas","29/12",14,1
+"Córdoba","29/12",14,1
+"Florencio Varela","29/12",14,1
+"Parque Avellaneda","29/12",14,1
+"Villa Pueyrredón","29/12",14,1
+"Tigre","29/12",14,1
+"Paternal","29/12",14,1
+"Villa Luro","29/12",14,1
+"Morón","29/12",14,1
+"Villa Santa Rita","29/12",14,1
+"Caballito","29/12",15,13
+"Almagro","29/12",15,7
+"Flores","29/12",15,6
+"Balvanera","29/12",15,6
+"Lanús","29/12",15,5
+"Paternal","29/12",15,5
+"Villa Santa Rita","29/12",15,5
+"Villa del Parque","29/12",15,5
+"Avellaneda","29/12",15,5
+"General San Martín","29/12",15,4
+"Recoleta","29/12",15,4
+"Belgrano","29/12",15,4
+"Palermo","29/12",15,4
+"Villa Crespo","29/12",15,4
+"Ituzaingó","29/12",15,3
+"Lomas de Zamora","29/12",15,3
+"Vicente López","29/12",15,3
+"Parque Chacabuco","29/12",15,3
+"Rosario","29/12",15,3
+"Quilmes","29/12",15,3
+"Colegiales","29/12",15,3
+"Núñez","29/12",15,2
+"La Matanza","29/12",15,2
+"Morón","29/12",15,2
+"La Plata","29/12",15,2
+"Constitución","29/12",15,2
+"Mataderos","29/12",15,2
+"Monserrat","29/12",15,2
+"Coghlan","29/12",15,2
+"Villa Real","29/12",15,1
+"San Fernando","29/12",15,1
+"Villa Lugano","29/12",15,1
+"Villa Gral. Mitre","29/12",15,1
+"Almirante Brown","29/12",15,1
+"San Nicolás","29/12",15,1
+"Versalles","29/12",15,1
+"Villa Luro","29/12",15,1
+"Villa Devoto","29/12",15,1
+"Berazategui","29/12",15,1
+"Floresta","29/12",15,1
+"Villa Urquiza","29/12",15,1
+"Saavedra","29/12",15,1
+"Parque Avellaneda","29/12",15,1
+"Villa Ortúzar","29/12",15,1
+"Boedo","29/12",15,1
+"Vélez Sársfield","29/12",15,1
+"Malvinas Argentinas","29/12",15,1
+"Córdoba","29/12",15,1
+"Liniers","29/12",15,1
+"Monte Castro","29/12",15,1
+"La Matanza","29/12",16,6
+"Caballito","29/12",16,6
+"Avellaneda","29/12",16,6
+"Villa Real","29/12",16,4
+"Villa Luro","29/12",16,4
+"Monte Castro","29/12",16,4
+"Vicente López","29/12",16,4
+"Villa Crespo","29/12",16,4
+"Lanús","29/12",16,3
+"Recoleta","29/12",16,3
+"Parque Chacabuco","29/12",16,3
+"Lomas de Zamora","29/12",16,3
+"Tres de Febrero","29/12",16,3
+"Versalles","29/12",16,3
+"Belgrano","29/12",16,2
+"Villa del Parque","29/12",16,2
+"Constitución","29/12",16,2
+"Boedo","29/12",16,2
+"Quilmes","29/12",16,2
+"Palermo","29/12",16,2
+"San Cristóbal","29/12",16,2
+"Villa Devoto","29/12",16,2
+"Flores","29/12",16,1
+"Moreno","29/12",16,1
+"Colegiales","29/12",16,1
+"Esteban Echeverría","29/12",16,1
+"Almagro","29/12",16,1
+"Villa Santa Rita","29/12",16,1
+"Tigre","29/12",16,1
+"Saavedra","29/12",16,1
+"Paternal","29/12",16,1
+"San Isidro","29/12",16,1
+"Almirante Brown","29/12",16,1
+"Balvanera","29/12",16,1
+"La Plata","29/12",16,1
+"Villa Pueyrredón","29/12",16,1
+"Ituzaingó","29/12",16,1
+"Villa Gral. Mitre","29/12",16,1
+"José C. Paz","29/12",16,1
+"Mataderos","29/12",16,1
+"Rosario","29/12",16,1
+"Floresta","29/12",16,1
+"Morón","29/12",16,1
