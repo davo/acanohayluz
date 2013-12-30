@@ -29,8 +29,8 @@ body {
 <script>
 
 var margin = {top: 20, right: 20, bottom: 30, left: 50},
-    width = 480 - margin.left - margin.right,
-    height = 320 - margin.top - margin.bottom;
+    width = 860 - margin.left - margin.right,
+    height = 480 - margin.top - margin.bottom;
 
 var parseDate = d3.time.format("%m/%d/%y").parse;
 
@@ -80,7 +80,7 @@ d3.csv("data/google-analytics/visitas.csv", function(error, data) {
       .attr("y", 6)
       .attr("dy", ".71em")
       .style("text-anchor", "end")
-      .text("Cantidad de visitas");
+      .text("Cantidad de visitas por día");
 
   svg.append("path")
       .datum(data)
