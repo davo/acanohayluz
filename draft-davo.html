@@ -1,0 +1,232 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Life Expectancy Map</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <style>
+    body   { color: #666; background: #f3f3f3; font: normal 10px "Helvetica Neue", Helvetica, sans-serif; margin: 2em; }
+    h1, p  { font-weight: 300; text-shadow: #fff 0 1px 0; margin: 0 0 0 0; padding: 0; }
+    p.hint { margin-top: 0.25em; }
+    h1     { font-size: 28px; font-weight: normal; }
+    p      { font-size: 12px; }
+    a      { color: #666; }
+    .hidden      { display: none; }
+    div.tooltip  { color: #222; background: #fff; padding: .5em; text-shadow: #f5f5f5 0 1px 0;
+                   border-radius: 2px; box-shadow: 0px 0px 2px 0px #a6a6a6; opacity: 0.9; position: absolute; }
+    div.tooltip .sep { color: #444; font-weight: 300; }
+    path.country { fill: #e7eaef; stroke: none; }
+    text.legend  { fill: #242930; }
+  </style>
+</head>
+<body>
+  <div id="chart"></div>
+  <footer>
+    <h1>Life Expectancy (<span class="year">1960</span>)</h1>
+    <p>With data from <a href="http://data.worldbank.org/indicator/SP.DYN.LE00.IN">WorldBank</a>.</p>
+    <p class="hint"><em>Use arrow keys to cycle through years or <a id="autoplay" href="#">autoplay</a>.</em></p>
+  </footer>
+</body>
+<!-- Actualizo a d3.v3 -->
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="lib/colorbrewer.js"></script>
+<script src="data/world-countries.json"></script>
+<script type="text/javascript">
+
+d3.csv("data/life-expectancy-full.csv", function(csv) {
+
+  //console.log(csv)
+
+  var
+  // The color scale
+  scale = colorbrewer.YlOrRd[9].reverse().concat(colorbrewer.YlGn[9]),
+
+  // The SVG container
+  width  = 960,
+  height = 550,
+  chart  = d3.select("#chart")
+             .append("svg")
+               .attr("width",  width)
+               .attr("height", height),
+
+  // Extract years and compute min/max years
+  years    = d3.keys(csv[0])
+               .filter(function(d) { return d.match(/^\d/); })
+               .map(   function(d) { return parseInt(d); }),
+  min_year = d3.min(years),
+  max_year = d3.max(years),
+
+  // Starting year
+  year     = top.location.search.replace(/\?/, "") || min_year,
+
+  // Extract min/max values from the whole dataset
+  values   = d3.merge(
+               csv
+                 .map(function(d) { return d3.entries(d).filter(function(d) { return d.key.match(/^\d/); }); })
+                 .map(function(d) { return d.map(function(d) { return d.value; }); })
+                 .map(function(d) { return d.map(function(d) { return parseFloat(d); }) })
+                 .map(function(d) { return d.filter(function(d) { return !isNaN(d); }) })
+             ),
+
+  // Extract data for selected year
+  // (Returns a hash in the form of { <COUNTRY ID> : <VALUE> } for selected year)
+  data     = function() {
+               return csv
+                 .reduce( function(previous, current, index) {
+                   previous[ current["Country Code"] ] = parseFloat(current[year]);
+                   return previous;
+                 }, {})
+              },
+
+  // Define color scale (bucketed, from dark reds to bright yellows)
+  color    = function() {
+               return d3.scale.quantile()
+                 .domain([d3.min(values),d3.max(values)])
+                 .range(scale)
+              },
+
+  // Projection
+  // * Cambia escala del mapa (cambia el calculo creado para esto desde d3.js v2 a v3).
+
+  p        = d3.geo.mercator()
+                .translate([480, 300])
+                .scale(450),
+  path     = d3.geo.path().projection(p);
+
+  // The map
+  var countries = d3.select("g#countries").empty() ?
+                    chart.append("g").attr("id", "countries") : d3.select("g#countries"),
+      country   = countries
+                    .selectAll("path")
+                    .data(world_countries.features);
+
+  console.log(data(csv));
+  country
+   .enter()
+    .append("path")
+    .classed("country", true)
+    .attr("id",    function(d,i) { return d.id; })
+    .attr("title", function(d,i) { return d.properties.name; })
+    .attr("d", path);
+
+  // Tooltip
+    var tooltip = d3.select("#chart")
+                    .append("div")
+                    .attr("class", "tooltip");
+
+  // The legend
+  var legend =  chart.append("g").attr("id", "legend");
+
+  // Update the chart graphics based on new data for selected year
+  var update = function() {
+    // console.log("Selected year", year)
+
+    // Continue cycle when hitting dataset boundaries
+    if ( year < min_year ) year = max_year;
+    if ( year > max_year ) year = min_year;
+
+    // * Page
+    // ** Update the year in the footer
+    d3.select("h1 .year").text(year);
+
+
+
+    // * Countries
+    // ** Add colorization based on the color scale (animated)
+    
+    // * Agrego transición encadenada para darle un delay incremental a cada objeto.
+    // * Basado en: http://bl.ocks.org/mbostock/3885705
+
+
+    var transition = country.transition().duration(1250),
+        delay = function(d, i) { return i * 1.5; };
+
+    country
+      .transition()
+      .delay(delay)
+      .style("fill",  function(d) { return data()[d.id] ? color()(data()[d.id]) : null; });
+      
+
+    // ** Show/hide tooltip
+    country
+      .on("mousemove", function(d,i) {
+        var mouse = d3.mouse(chart.node()).map( function(d) { return parseInt(d); } );
+
+        tooltip
+          .classed("hidden", false)
+          .attr("style", "left:"+(mouse[0]+25)+"px;top:"+mouse[1]+"px")
+          .html(d.properties.name+' <span class="sep">|</span> '+d3.round(data()[d.id], 1))
+      })
+      .on("mouseout",  function(d,i) {
+        tooltip.classed("hidden", true)
+      });
+
+    // * Legend
+    // ** Update swatches
+    var swatch = legend.selectAll("rect").data( color().copy().quantiles() );
+    swatch
+     .enter()
+      .append("rect")
+      .attr("width",  18)
+      .attr("height", 18)
+      .attr("x", function(d,i) { return i*18; })
+      .attr("y", height - 25);
+    swatch
+      .style("fill", function(d,i) { return color()(d); });
+
+    // ** Update labels
+    var label = legend.selectAll("text").data( color().copy().quantiles() );
+    label
+     .enter()
+      .append("text")
+      .classed("legend", true)
+      .attr("x", function(d,i) { return 2 + i*18; })
+      .attr("y", height - 29);
+    label
+      .text(function(d,i) { return d3.round(d); });
+
+    return chart;
+  };
+
+  // Update the chart on first load
+  update();
+
+  // Interactivity: cycle through years by arrow keys
+  d3.select(window).on("keydown", function() {
+    switch (d3.event.keyCode) {
+      case 37: year = parseInt(year)-1; update(); break;
+      case 39: year = parseInt(year)+1; update(); break;
+    }
+  });
+
+  // Hook up autoplay
+  var playing = false,
+      loop    = null;
+  d3.select("#autoplay").on("click", function() {
+    d3.event.preventDefault();
+    if (playing) {
+      playing = false;
+      clearInterval(loop);
+      return d3.select(d3.event.target).text("autoplay");
+    } else {
+      playing = true;
+      // * Agrego 1000ms al intervalo entre años. 
+      loop    = setInterval( function() { year += 1; update(); }, 1750 );
+      return d3.select(d3.event.target).text("stop autoplay");
+    }
+  });
+
+  return chart;
+});
+
+/*  TODO:
+    
+    Agregar slider para navegar los años.
+
+    http://bl.ocks.org/mbostock/6452972
+  
+*/
+
+</script>
+
+</html>
