@@ -20,11 +20,21 @@ var ANHL;
     ANHL.rawData;
     ANHL.nestedData;
 
-    ANHL.currentDay;
-    ANHL.currentHour;
+    ANHL.currentDay = 0;
+    ANHL.currentHour = 0;
 
-    ANHL.availableDays; // TO-DO
+    ANHL.availableDays;
     ANHL.availableHours = d3.range(0,24);
+
+    ANHL.$day = $('#day');
+    ANHL.$hour = $('#hour');
+
+    ANHL.$nextHour = $('#next-hour');
+    ANHL.$prevHour = $('#prev-hour');
+
+    ANHL.$play = $('#play');
+    ANHL.$stop = $('#stop');
+    ANHL.autoplayId;
 
     ANHL.init = function(){
 
@@ -70,8 +80,9 @@ var ANHL;
         .key(function(d) { return d.hora; })
         .map(data, d3.map);
 
-      //nested Data, deberá mapearse a objecto cara
-      console.log(ANHL.nestedData);
+      ANHL.availableDays = ANHL.nestedData.keys();
+
+      ANHL.initBindings();
 
     }
 
@@ -79,18 +90,88 @@ var ANHL;
       //TO-DO
     }
 
+    ANHL.initBindings = function(){
+      this.$prevHour.on('click',ANHL.prevHour);
+      this.$nextHour.on('click',ANHL.nextHour);
+      this.$play.on('click',function(){
+        ANHL.autoplayId = setInterval(ANHL.nextHour,1000);
+      });
+      this.$stop.on('click',function(){
+        clearInterval(ANHL.autoplayId);
+      });
+      ANHL.updateMap();
+    }
+
     ANHL.updateMap = function() {
 
-      console.log(ANHL.currentDay);
-      console.log(ANHL.currentHour);
+      ANHL.$day.html(ANHL.availableDays[ANHL.currentDay]);
+      ANHL.$hour.html(ANHL.availableHours[ANHL.currentHour]);
 
-      // ** TO-DO Add colorization based on the color scale (animated)
-      /*country
-        .transition()
-          .duration(250)
-        .style("fill",  function(d) { return data()[d.id] ? color()(data()[d.id]) : null; });*/
+      var data = ANHL.nestedData.get(ANHL.availableDays[ANHL.currentDay]).get(ANHL.availableHours[ANHL.currentHour]);
+      
+      if(data){
+        data = d3.nest()
+        .key(function(d) { return toID(d.nombre); })
+        .rollup(function(d) { return parseInt(d[0].cantidad); })
+        .map(data, d3.map);
+        //TODO render map
+        console.log(data);
+        // ** TO-DO Add colorization based on the color scale (animated)
+        /*country
+          .transition()
+            .duration(250)
+          .style("fill",  function(d) { return data()[d.id] ? color()(data()[d.id]) : null; });*/
+      } else {
+        console.log('no data');
+      }
 
-     };
+    };
+
+    ANHL.prevHour = function() {
+
+      if (ANHL.currentHour == 0) {
+        ANHL.currentHour = 23;
+        ANHL.prevDay();
+      } else {
+        ANHL.currentHour--;
+      };
+
+      ANHL.updateMap();
+
+    };
+
+    ANHL.prevDay = function() {
+
+      if (ANHL.currentDay == 0) {
+        ANHL.currentDay = ANHL.availableDays.length-1;
+      } else {
+        ANHL.currentDay--;
+      };
+
+    };
+
+    ANHL.nextHour = function() {
+
+      if (ANHL.currentHour == 23) {
+        ANHL.currentHour = 0;
+        ANHL.nextDay();
+      } else {
+        ANHL.currentHour++;
+      };
+
+      ANHL.updateMap();
+
+    };
+
+    ANHL.nextDay = function() {
+
+      if (ANHL.currentDay == ANHL.availableDays.length-1) {
+        ANHL.currentDay = 0;
+      } else {
+        ANHL.currentDay++;
+      };
+
+    };
 
     //
     ANHL.barriosLoaded = function(error, pal){
@@ -158,6 +239,10 @@ window.onload = function() {
     ANHL.init(); 
 }
 
+
+function toID(b){
+  return b.replace(/ /g,"_").toLocaleLowerCase();
+}
 
 //TO-DO pasar estas funciones a otro lado
 function unit_class(d){
